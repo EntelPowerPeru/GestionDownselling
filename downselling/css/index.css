@@ -1,0 +1,75 @@
+header {
+    background: rgba(0, 46, 255, .5);
+    min-height: 100vh;
+    padding: 1rem;
+}
+
+.background {
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    z-index: -100;
+}
+
+.navbar {
+    padding: 1rem;
+}
+
+.logo {
+    width: 200px;
+}
+
+.text-primary {
+    color: #002EFF !important;
+}
+
+.opcion:hover {
+    background-color: rgba(255, 60, 0, .8);
+}
+
+.opcion:hover * {
+    color: #fff;
+}
+
+.card-title {
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.card-subtitle {
+    color: rgb(70, 70, 70);
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.card-subtitle-2 {
+    color: rgb(130, 130, 130);
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.list-light {
+    list-style: none;
+    padding: 0 0 0 1rem;
+}
+
+.item-light {
+    color: rgb(150, 150, 150);
+    font-style: italic;
+    font-size: .7rem;
+    font-weight: 400;
+    margin-bottom: .5rem;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
