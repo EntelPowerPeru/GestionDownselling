@@ -1,10 +1,9 @@
 
 body {
-	background: #f8f8f8;
+	background: #c9def8;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 300;
-    color: #888;
     line-height: 30px;
     text-align: center;
 }
@@ -41,7 +40,7 @@ img { max-width: 100%; }
 
 .container {
 	padding-bottom: 60px;
-	background: #f8f8f8;
+	background: #c9def8;
 }
 
 .section-container {
@@ -83,7 +82,7 @@ img { max-width: 100%; }
 
 
 .layouts {
-	border-top: 1px solid #ddd;
+	border-top: 1px solid #004fb9;
 }
 
 .layout-box {
@@ -112,6 +111,16 @@ img { max-width: 100%; }
 	border-top: 1px solid #ddd;
 }
 
+.title {
+	color: #004fb9;
+	font-size: 35px;
+	font-weight: 600;
+}
+
+.option-title {
+	letter-spacing: 1px;
+	font-weight: 600;
+}
 
 @media (min-width: 768px) and (max-width: 991px) {
 	
