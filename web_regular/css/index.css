@@ -73,3 +73,30 @@ header {
     width: 20px;
     height: 20px;
 }
+
+.hero__subtitle {
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 800;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+.hero__list {
+    color: #fff;
+    list-style: none;
+    font-size: .8rem;
+    font-weight: 800;
+    letter-spacing: 3px;
+    text-align: justify;
+    text-transform: uppercase;
+    margin: 0 0 2rem 0;
+    padding: 0;
+}
+
+.hero__list li {
+    margin-bottom: 1rem;
+}
