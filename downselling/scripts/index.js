@@ -9,8 +9,11 @@ const SET_ELEMENTOS = {
         let lineas_html = "";
 
         // Origen
-        lista_origen.forEach((e) => {
-            origen_html += `<option value="${e.origen_nombre}">${e.origen_nombre}</option>`;
+
+        let lista_origen_sin_duplicados = lista_origen.map(e => e.origen_nombre);
+        lista_origen_sin_duplicados = [...new Set(lista_origen_sin_duplicados)];
+        lista_origen_sin_duplicados.forEach((e) => {
+            origen_html += `<option value="${e}">${e}</option>`;
         });
 
         document.querySelector("#origen_nombre").innerHTML = origen_html;
