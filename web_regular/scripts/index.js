@@ -40,26 +40,20 @@ const DOM_EVENTOS = {
         let html_origen_beneficios = "";
 
         origen.lista_beneficios.forEach((e) => {
-          html_origen_beneficios += `<li class="item-light text-primary">&#10003; ${e}</li>`;
+          html_origen_beneficios += `<li class="text-white fst-italic">&#10003; ${e}</li>`;
         });
 
         html += `
-            <div class="col-12 mb-3">
-                <div class="card opcion">
-                    <div class="card-body">
-                        <div class="card border-primary">
-                            <div class="card-body">
-                                <h3 class="card-subtitle-2 text-primary">Beneficios</h3>
+        <div class="col-12 mb-3">
+            <div class="card-sm bg-cyan--transparent">
+                <h1 class="fs-5 text-white">Beneficios</h1>
 
-                                <ul class="list-light">
-                                    ${html_origen_beneficios}
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <ul class="list-light">
+                    ${html_origen_beneficios}
+                </ul>
             </div>
-            `;
+        </div>
+        `;
 
         opciones.forEach((e) => {
           if (!e.permite_downselling) {
@@ -85,7 +79,7 @@ const DOM_EVENTOS = {
           });
 
           e.lista_resumen?.forEach((f) => {
-            html_resumen += `<li class="item-light text-danger">&#9942; ${f}</li>`;
+            html_resumen += `<li class="item-light ${f.toLowerCase().includes("gana") ? "text-success" : "text-danger"}">${f.toLowerCase().includes("gana") ? "&#10003;" : "&#10005;"} ${f}</li>`;
           });
 
           html_ahorro += `<li class="item-light text-warning">&#10039; S/.${e.ahorro_anual} al año</li>`;
@@ -119,7 +113,7 @@ const DOM_EVENTOS = {
                                 ? `
                             <div class="card border-danger mb-2">
                                 <div class="card-body">
-                                    <h3 class="card-subtitle-2 text-danger">Cambios con el nuevo Plan</h3>
+                                    <h3 class="card-subtitle-2 text-danger">Cambios con el nuevo plan</h3>
 
                                     <ul class="list-light">
                                         ${html_resumen}

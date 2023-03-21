@@ -51,43 +51,31 @@ const DOM_EVENTOS = {
                 let origen_ahorro_anual_html = "";
 
                 origen.lista_beneficios.forEach(e => {
-                    origen_beneficios_html += `<li class="item-light text-primary">&#10003; ${e}</li>`;
+                    origen_beneficios_html += `<li class="text-white fst-italic">&#10003; ${e}</li>`;
                 });
 
-                origen_ahorro_anual_html += `<li class="item-light text-orange">&#9675; ${origen.ahorro_anual === "-" ? origen.ahorro_anual : `S/${origen.ahorro_anual} al año`}</li>`;
+                origen_ahorro_anual_html += `<li class="text-white fst-italic">&#9675; ${origen.ahorro_anual === "-" ? origen.ahorro_anual : `S/${origen.ahorro_anual} al año`}</li>`;
 
                 html += `
                 <div class="col-md-6 mb-3">
-                    <div class="card opcion">
-                        <div class="card-body">
-                            <div class="card border-primary">
-                                <div class="card-body">
-                                    <h3 class="card-subtitle-2 text-primary">Beneficios</h3>
+                    <div class="card-sm bg-cyan--transparent">
+                        <h1 class="fs-5 text-white">Beneficios</h1>
 
-                                    <ul class="list-light">
-                                        ${origen_beneficios_html}
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+                        <ul class="list-light">
+                            ${origen_beneficios_html}
+                        </ul>
                     </div>
                 </div>
                 `;
 
                 html += `
                 <div class="col-md-6 mb-3">
-                    <div class="card opcion">
-                        <div class="card-body">
-                            <div class="card border-orange">
-                                <div class="card-body">
-                                    <h3 class="card-subtitle-2 text-orange">Ahorra</h3>
+                    <div class="card-sm bg-orange--transparent h-100">
+                        <h1 class="fs-5 text-white">Ahorra</h1>
 
-                                    <ul class="list-light">
-                                        ${origen_ahorro_anual_html}
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+                        <ul class="list-light">
+                            ${origen_ahorro_anual_html}
+                        </ul>
                     </div>
                 </div>
                 `;
