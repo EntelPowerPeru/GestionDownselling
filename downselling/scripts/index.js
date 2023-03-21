@@ -54,7 +54,7 @@ const DOM_EVENTOS = {
                     origen_beneficios_html += `<li class="item-light text-primary">&#10003; ${e}</li>`;
                 });
 
-                origen_ahorro_anual_html += `<li class="item-light text-warning">&#9675; ${origen.ahorro_anual === "-" ? origen.ahorro_anual : `S/${origen.ahorro_anual} al año`}</li>`;
+                origen_ahorro_anual_html += `<li class="item-light text-orange">&#9675; ${origen.ahorro_anual === "-" ? origen.ahorro_anual : `S/${origen.ahorro_anual} al año`}</li>`;
 
                 html += `
                 <div class="col-md-6 mb-3">
@@ -78,9 +78,9 @@ const DOM_EVENTOS = {
                 <div class="col-md-6 mb-3">
                     <div class="card opcion">
                         <div class="card-body">
-                            <div class="card border-warning">
+                            <div class="card border-orange">
                                 <div class="card-body">
-                                    <h3 class="card-subtitle-2 text-warning">Ahorra</h3>
+                                    <h3 class="card-subtitle-2 text-orange">Ahorra</h3>
 
                                     <ul class="list-light">
                                         ${origen_ahorro_anual_html}
@@ -104,14 +104,14 @@ const DOM_EVENTOS = {
                     });
 
                     e.lista_cambios.forEach(f => {
-                        opcion_cambios_html += `<li class="item-light text-danger">&#10005; ${f}</li>`;
+                        opcion_cambios_html += `<li class="item-light ${f.toLowerCase().includes("gana") ? "text-success" : "text-danger"}">${f.toLowerCase().includes("gana") ? "&#10003;" : "&#10005;"} ${f}</li>`;
                     });
 
-                    opcion_total_mes_sin_plan_familia_html += `<p class="paragraph-light mb-1"><b>TOTAL MES SIN PLAN FAMILIA:</b> ${e.total_mes_sin_plan_familia === "-" ? e.total_mes_sin_plan_familia : `S/${e.total_mes_sin_plan_familia}`}</p>`;
+                    opcion_total_mes_sin_plan_familia_html = e.total_mes_sin_plan_familia === "-" ? "" : `<p class="paragraph-light mb-1"><b>Total mes <b>SIN</b> plan familia:</b> S/${e.total_mes_sin_plan_familia}</p>`;
 
-                    opcion_total_mes_con_plan_familia_html += `<p class="paragraph-light mb-1"><b>TOTAL MES CON PLAN FAMILIA:</b> ${e.total_mes_con_plan_familia === "-" ? e.total_mes_con_plan_familia : `S/${e.total_mes_con_plan_familia}`}</p>`;
+                    opcion_total_mes_con_plan_familia_html = e.total_mes_con_plan_familia === "-" ? "" : `<p class="paragraph-light mb-1"><b>Total mes <b>CON</b> plan familia:</b> S/${e.total_mes_con_plan_familia}</p>`;
 
-                    opcion_ahorro_anual_html += `<p class="paragraph-light mb-1"><b>AHORRA:</b> ${e.ahorro_anual === "-" ? e.ahorro_anual : `S/${e.ahorro_anual} al año`}</p>`;
+                    opcion_ahorro_anual_html = e.ahorro_anual === "-" ? "" : `<p class="paragraph-light mb-1"><b>Ahorro anual <b>CON</b> plan familia - Opción ${e.opcion_id}:</b> S/${e.ahorro_anual} al año</p>`;
 
                     html += `
                     <div class="col-md-6 mb-3 mb-md-0">
@@ -129,9 +129,9 @@ const DOM_EVENTOS = {
                                     </div>
                                 </div>
 
-                                <div class="card border-danger mb-4">
+                                <div class="card border-info mb-4">
                                     <div class="card-body">
-                                        <h3 class="card-subtitle-2 text-danger">Cambios con el nuevo plan</h3>
+                                        <h3 class="card-subtitle-2 text-info">Cambios con el nuevo plan</h3>
 
                                         <ul class="list-light">
                                             ${opcion_cambios_html}
