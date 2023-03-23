@@ -57,24 +57,12 @@ const DOM_EVENTOS = {
                 origen_ahorro_anual_html += `<li class="text-white fst-italic">&#9675; ${origen.ahorro_anual === "-" ? origen.ahorro_anual : `S/${origen.ahorro_anual} al año`}</li>`;
 
                 html += `
-                <div class="col-md-6 mb-3">
+                <div class="col-12 mb-3">
                     <div class="card-sm bg-cyan--transparent">
-                        <h1 class="fs-5 text-white">Beneficios</h1>
-
+                        <h1 class="fs-5 text-white">Beneficios de Plan Actual</h1>
+        
                         <ul class="list-light">
                             ${origen_beneficios_html}
-                        </ul>
-                    </div>
-                </div>
-                `;
-
-                html += `
-                <div class="col-md-6 mb-3">
-                    <div class="card-sm bg-orange--transparent h-100">
-                        <h1 class="fs-5 text-white">Ahorra</h1>
-
-                        <ul class="list-light">
-                            ${origen_ahorro_anual_html}
                         </ul>
                     </div>
                 </div>
@@ -99,7 +87,7 @@ const DOM_EVENTOS = {
 
                     opcion_total_mes_con_plan_familia_html = e.total_mes_con_plan_familia === "-" ? "" : `<p class="paragraph-light mb-1"><b>Total mes <b>CON</b> plan familia:</b> S/${e.total_mes_con_plan_familia}</p>`;
 
-                    opcion_ahorro_anual_html = e.ahorro_anual === "-" ? "" : `<p class="paragraph-light mb-1"><b>Ahorro anual <b>CON</b> plan familia - Opción ${e.opcion_id}:</b> S/${e.ahorro_anual} al año</p>`;
+                    opcion_ahorro_anual_html = e.ahorro_anual === "-" ? "" : `<p class="paragraph-light mb-1"><b>Ahorro <b>CON</b> plan familia:</b> S/${e.ahorro_anual} al año</p>`;
 
                     html += `
                     <div class="col-md-6 mb-3 mb-md-0">

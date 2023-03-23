@@ -46,7 +46,7 @@ const DOM_EVENTOS = {
         html += `
         <div class="col-12 mb-3">
             <div class="card-sm bg-cyan--transparent">
-                <h1 class="fs-5 text-white">Beneficios</h1>
+                <h1 class="fs-5 text-white">Beneficios de Plan Actual</h1>
 
                 <ul class="list-light">
                     ${html_origen_beneficios}
