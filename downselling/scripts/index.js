@@ -115,9 +115,9 @@ const DOM_EVENTOS = {
                                     </div>
                                 </div>
 
-                                ${e.opcion_id === 1 ? opcion_total_mes_sin_plan_familia_html : ""}
+                                ${opcion_total_mes_sin_plan_familia_html}
 
-                                ${e.opcion_id === 1 ? opcion_total_mes_con_plan_familia_html : ""}
+                                ${opcion_total_mes_con_plan_familia_html}
                                 
                                 ${opcion_ahorro_anual_html}
                             </div>
