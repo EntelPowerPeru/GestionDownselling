@@ -353,6 +353,11 @@ export const lista_origen = [
   },
   {
     origen_id: 44,
+    origen_nombre: "ENTEL POWER 69.90 A",
+    lista_beneficios: ["Ilimitado con 26 GB en AV", "Roaming: no tiene"],
+  },
+  {
+    origen_id: 45,
     origen_nombre: "ENTEL CHIP 74.90 PLUS",
     lista_beneficios: [
       "100 GB en AV",
@@ -361,22 +366,22 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 45,
+    origen_id: 46,
     origen_nombre: "ENTEL POWER 74.90 B",
     lista_beneficios: ["Ilimitado con 100 GB en AV", "Roaming: no tiene"],
   },
   {
-    origen_id: 46,
+    origen_id: 47,
     origen_nombre: "ENTEL POWER 74.90",
     lista_beneficios: ["100 GB en AV", "Roaming: no tiene"],
   },
   {
-    origen_id: 47,
+    origen_id: 48,
     origen_nombre: "NEGOCIO CHIP R 84.80",
     lista_beneficios: ["25 GB en AV", "Roaming: no tiene"],
   },
   {
-    origen_id: 48,
+    origen_id: 49,
     origen_nombre: "ENTEL CHIP 84.90",
     lista_beneficios: [
       "110 GB en AV",
@@ -385,7 +390,7 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 49,
+    origen_id: 50,
     origen_nombre: "ENTEL CONTROL 84.90",
     lista_beneficios: [
       "9 GB en AV",
@@ -394,7 +399,7 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 50,
+    origen_id: 51,
     origen_nombre: "ENTEL CHIP 89.90",
     lista_beneficios: [
       "115 GB en AV",
@@ -403,7 +408,7 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 51,
+    origen_id: 52,
     origen_nombre: "ENTEL CHIP 94.80 PLUS",
     lista_beneficios: [
       "16 GB en AV",
@@ -412,7 +417,7 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 52,
+    origen_id: 53,
     origen_nombre: "ENTEL CHIP 94.90",
     lista_beneficios: [
       "125 GB en AV",
@@ -421,17 +426,17 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 53,
+    origen_id: 54,
     origen_nombre: "ENTEL POWER 94.90",
     lista_beneficios: ["Ilimitado con 125 GB en AV", "Roaming: 4 GB"],
   },
   {
-    origen_id: 54,
+    origen_id: 55,
     origen_nombre: "ENTEL POWER 94.90 B",
     lista_beneficios: ["Ilimitado con 125 GB en AV", "Roaming: 4 GB"],
   },
   {
-    origen_id: 55,
+    origen_id: 56,
     origen_nombre: "ENTEL CHIP 104.80 PLUS",
     lista_beneficios: [
       "17 GB en AV",
@@ -440,7 +445,7 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 56,
+    origen_id: 57,
     origen_nombre: "ENTEL CHIP 109.90 PLUS",
     lista_beneficios: [
       "18 GB en AV",
@@ -449,17 +454,17 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 57,
+    origen_id: 58,
     origen_nombre: "ENTEL POWER 109.90",
     lista_beneficios: ["Ilimitado 140 GB en AV", "Roaming: 5.5 GB"],
   },
   {
-    origen_id: 58,
+    origen_id: 59,
     origen_nombre: "NEGOCIO CHIP R 109.90",
     lista_beneficios: ["31 GB en AV", "Roaming: 3 GB"],
   },
   {
-    origen_id: 59,
+    origen_id: 60,
     origen_nombre: "ENTEL CHIP 114.80",
     lista_beneficios: [
       "20 GB en AV",
@@ -468,7 +473,7 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 60,
+    origen_id: 61,
     origen_nombre: "ENTEL CHIP 119.90",
     lista_beneficios: [
       "8 GB en AV",
@@ -477,7 +482,7 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 61,
+    origen_id: 62,
     origen_nombre: "ENTEL CHIP 129.90 PLUS",
     lista_beneficios: [
       "25 GB en AV",
@@ -486,17 +491,17 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 62,
+    origen_id: 63,
     origen_nombre: "ENTEL POWER 129.90",
     lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
   },
   {
-    origen_id: 63,
+    origen_id: 64,
     origen_nombre: "ENTEL POWER 129.90 A",
     lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
   },
   {
-    origen_id: 64,
+    origen_id: 65,
     origen_nombre: "ENTEL CHIP 145.90",
     lista_beneficios: [
       "12 GB en AV",
@@ -505,7 +510,7 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 65,
+    origen_id: 66,
     origen_nombre: "ENTEL CONTROL 149.90",
     lista_beneficios: [
       "25 GB en AV",
@@ -514,7 +519,7 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 66,
+    origen_id: 67,
     origen_nombre: "ENTEL LIBRE 149.90",
     lista_beneficios: [
       "25 GB en AV",
@@ -523,7 +528,7 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 67,
+    origen_id: 68,
     origen_nombre: "ENTEL CHIP 155.90",
     lista_beneficios: [
       "14 GB en AV",
@@ -532,27 +537,27 @@ export const lista_origen = [
     ],
   },
   {
-    origen_id: 68,
+    origen_id: 69,
     origen_nombre: "NEGOCIO POWER R 156.40",
     lista_beneficios: ["46 GB en AV", "Roaming: no tiene"],
   },
   {
-    origen_id: 69,
+    origen_id: 70,
     origen_nombre: "ENTEL CHIP 159.90 PLUS",
     lista_beneficios: ["Ilimitado con 160 GB en AV", "Roaming: 12 GB"],
   },
   {
-    origen_id: 70,
+    origen_id: 71,
     origen_nombre: "ENTEL POWER 159.90 5G",
     lista_beneficios: ["Ilimitado con 45 GB en AV", "Roaming: 7 GB"],
   },
   {
-    origen_id: 71,
+    origen_id: 72,
     origen_nombre: "ENTEL CHIP 199.90",
     lista_beneficios: ["Ilimitado con 170 GB en AV", "Roaming: 16 GB"],
   },
   {
-    origen_id: 72,
+    origen_id: 73,
     origen_nombre: "ENTEL CHIP 199.90 LIBRE",
     lista_beneficios: ["Ilimitado con 170 GB en AV", "Roaming: 16 GB"],
   },
@@ -1727,12 +1732,46 @@ export const lista_opcion = [
       "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
       "Roaming: no tiene",
     ],
+    lista_resumen: [
+      "Pierde Ilimitado",
+      "Gana 59 GB en AV",
+      "Gana Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
+    ],
+    ahorro_anual: 48,
+    permite_downselling: true,
+  },
+  {
+    origen_id: 44,
+    opcion_id: 2,
+    plan_nombre: "ENTEL POWER+ 59.90",
+    lista_beneficios: [
+      "75 GB en AV",
+      "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
+      "Roaming: 3 GB",
+    ],
+    lista_resumen: [
+      "Pierde Ilimitado",
+      "Gana 49 GB en AV",
+      "Gana Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
+    ],
+    ahorro_anual: 120,
+    permite_downselling: true,
+  },
+  {
+    origen_id: 45,
+    opcion_id: 1,
+    plan_nombre: "ENTEL CHIP 65.90 PLUS",
+    lista_beneficios: [
+      "85 GB en AV",
+      "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
+      "Roaming: no tiene",
+    ],
     lista_resumen: ["Pierde 15 GB", "Pierde SoundCloud"],
     ahorro_anual: 108,
     permite_downselling: true,
   },
   {
-    origen_id: 44,
+    origen_id: 45,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER+ 59.90",
     lista_beneficios: [
@@ -1749,7 +1788,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 45,
+    origen_id: 46,
     opcion_id: 1,
     plan_nombre: "ENTEL CHIP 65.90 PLUS",
     lista_beneficios: [
@@ -1765,7 +1804,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 45,
+    origen_id: 46,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER+ 59.90",
     lista_beneficios: [
@@ -1782,7 +1821,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 46,
+    origen_id: 47,
     opcion_id: 1,
     plan_nombre: "ENTEL CHIP 65.90 PLUS",
     lista_beneficios: [
@@ -1798,7 +1837,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 46,
+    origen_id: 47,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER+ 59.90",
     lista_beneficios: [
@@ -1815,7 +1854,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 47,
+    origen_id: 48,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER+ 74.90",
     lista_beneficios: [
@@ -1832,7 +1871,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 47,
+    origen_id: 48,
     opcion_id: 2,
     plan_nombre: "ENTEL CHIP 65.90 PLUS",
     lista_beneficios: [
@@ -1848,7 +1887,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 48,
+    origen_id: 49,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER+ 74.90",
     lista_beneficios: [
@@ -1861,7 +1900,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 48,
+    origen_id: 49,
     opcion_id: 2,
     plan_nombre: "ENTEL CHIP 65.90 PLUS",
     lista_beneficios: [
@@ -1877,7 +1916,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 49,
+    origen_id: 50,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER+ 74.90",
     lista_beneficios: [
@@ -1890,7 +1929,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 49,
+    origen_id: 50,
     opcion_id: 2,
     plan_nombre: "ENTEL CHIP 65.90 PLUS",
     lista_beneficios: [
@@ -1906,7 +1945,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 50,
+    origen_id: 51,
     opcion_id: 1,
     plan_nombre: "ENTEL CHIP 84.90",
     lista_beneficios: [
@@ -1919,7 +1958,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 50,
+    origen_id: 51,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER+ 74.90",
     lista_beneficios: [
@@ -1936,7 +1975,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 51,
+    origen_id: 52,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 89.90 SD",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
@@ -1945,7 +1984,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 51,
+    origen_id: 52,
     opcion_id: 2,
     plan_nombre: "ENTEL CHIP 84.90",
     lista_beneficios: [
@@ -1961,7 +2000,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 52,
+    origen_id: 53,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 89.90 SD",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
@@ -1970,7 +2009,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 52,
+    origen_id: 53,
     opcion_id: 2,
     plan_nombre: "ENTEL CHIP 84.90",
     lista_beneficios: [
@@ -1986,31 +2025,6 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 53,
-    opcion_id: 1,
-    plan_nombre: "ENTEL POWER 89.90 SD",
-    lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
-    lista_resumen: ["Gana ilimitado en AV", "Pierde 0.5 GB roaming"],
-    ahorro_anual: 60,
-    permite_downselling: true,
-  },
-  {
-    origen_id: 53,
-    opcion_id: 2,
-    plan_nombre: "ENTEL CHIP 84.90",
-    lista_beneficios: [
-      "110 GB en AV",
-      "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
-      "Roaming: no tiene",
-    ],
-    lista_resumen: [
-      "Pierde Ilimitado y 15 GB",
-      "Pierde 4 GB Roaming",
-    ],
-    ahorro_anual: 120,
-    permite_downselling: true,
-  },
-  {
     origen_id: 54,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 89.90 SD",
@@ -2037,6 +2051,31 @@ export const lista_opcion = [
   },
   {
     origen_id: 55,
+    opcion_id: 1,
+    plan_nombre: "ENTEL POWER 89.90 SD",
+    lista_beneficios: ["Ilimitado en AV", "Roaming: 3.5 GB"],
+    lista_resumen: ["Gana ilimitado en AV", "Pierde 0.5 GB roaming"],
+    ahorro_anual: 60,
+    permite_downselling: true,
+  },
+  {
+    origen_id: 55,
+    opcion_id: 2,
+    plan_nombre: "ENTEL CHIP 84.90",
+    lista_beneficios: [
+      "110 GB en AV",
+      "Whatsapp, Waze, Spotify y Apple Music Ilimitado; Facebook e Instagram Full",
+      "Roaming: no tiene",
+    ],
+    lista_resumen: [
+      "Pierde Ilimitado y 15 GB",
+      "Pierde 4 GB Roaming",
+    ],
+    ahorro_anual: 120,
+    permite_downselling: true,
+  },
+  {
+    origen_id: 56,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 99.90 SD",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 5 GB"],
@@ -2045,7 +2084,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 55,
+    origen_id: 56,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 89.90 SD",
     lista_beneficios: [
@@ -2060,7 +2099,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 56,
+    origen_id: 57,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 99.90 SD",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 5 GB"],
@@ -2069,7 +2108,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 56,
+    origen_id: 57,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 89.90 SD",
     lista_beneficios: [
@@ -2084,7 +2123,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 57,
+    origen_id: 58,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 99.90 SD",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 5 GB"],
@@ -2093,7 +2132,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 57,
+    origen_id: 58,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 89.90 SD",
     lista_beneficios: [
@@ -2108,7 +2147,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 58,
+    origen_id: 59,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 99.90 SD",
     lista_beneficios: ["Ilimitado en AV", "Roaming: 5 GB"],
@@ -2117,7 +2156,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 58,
+    origen_id: 59,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 89.90 SD",
     lista_beneficios: [
@@ -2132,7 +2171,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 59,
+    origen_id: 60,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 109.90",
     lista_beneficios: ["Ilimitado 140 GB en AV", "Roaming: 5.5 GB"],
@@ -2145,7 +2184,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 59,
+    origen_id: 60,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 99.90 SD",
     lista_beneficios: [
@@ -2160,7 +2199,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 60,
+    origen_id: 61,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 109.90",
     lista_beneficios: ["Ilimitado 140 GB en AV", "Roaming: 5.5 GB"],
@@ -2173,7 +2212,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 60,
+    origen_id: 61,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 99.90 SD",
     lista_beneficios: [
@@ -2188,7 +2227,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 61,
+    origen_id: 62,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 109.90",
     lista_beneficios: ["Ilimitado 140 GB en AV", "Roaming: 5.5 GB"],
@@ -2201,29 +2240,6 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 61,
-    opcion_id: 2,
-    plan_nombre: "ENTEL POWER 99.90 SD",
-    lista_beneficios: [
-      "Ilimitado en AV",
-      "Roaming: 5 GB",
-    ],
-    lista_resumen: [
-      "Gana Ilimitado en AV",
-    ],
-    ahorro_anual: 360,
-    permite_downselling: true,
-  },
-  {
-    origen_id: 62,
-    opcion_id: 1,
-    plan_nombre: "ENTEL POWER 109.90",
-    lista_beneficios: ["Ilimitado 140 GB en AV", "Roaming: 5.5 GB"],
-    lista_resumen: ["Pierde 10 GB", "Pierde 2.5 GB roaming"],
-    ahorro_anual: 240,
-    permite_downselling: true,
-  },
-  {
     origen_id: 62,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 99.90 SD",
@@ -2233,7 +2249,6 @@ export const lista_opcion = [
     ],
     lista_resumen: [
       "Gana Ilimitado en AV",
-      "Pierde 3 GB Roaming",
     ],
     ahorro_anual: 360,
     permite_downselling: true,
@@ -2264,6 +2279,30 @@ export const lista_opcion = [
   },
   {
     origen_id: 64,
+    opcion_id: 1,
+    plan_nombre: "ENTEL POWER 109.90",
+    lista_beneficios: ["Ilimitado 140 GB en AV", "Roaming: 5.5 GB"],
+    lista_resumen: ["Pierde 10 GB", "Pierde 2.5 GB roaming"],
+    ahorro_anual: 240,
+    permite_downselling: true,
+  },
+  {
+    origen_id: 64,
+    opcion_id: 2,
+    plan_nombre: "ENTEL POWER 99.90 SD",
+    lista_beneficios: [
+      "Ilimitado en AV",
+      "Roaming: 5 GB",
+    ],
+    lista_resumen: [
+      "Gana Ilimitado en AV",
+      "Pierde 3 GB Roaming",
+    ],
+    ahorro_anual: 360,
+    permite_downselling: true,
+  },
+  {
+    origen_id: 65,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
@@ -2276,7 +2315,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 64,
+    origen_id: 65,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 109.90",
     lista_beneficios: [
@@ -2292,35 +2331,6 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 65,
-    opcion_id: 1,
-    plan_nombre: "ENTEL POWER 129.90",
-    lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
-    lista_resumen: [
-      "Gana 125 GB",
-      "Pierde Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
-      "Gana 7 GB roaming",
-    ],
-    ahorro_anual: 240,
-    permite_downselling: true,
-  },
-  {
-    origen_id: 65,
-    opcion_id: 2,
-    plan_nombre: "ENTEL POWER 109.90",
-    lista_beneficios: [
-      "Ilimitado 140 GB en AV",
-      "Roaming: 5.5 GB",
-    ],
-    lista_resumen: [
-      "Pierde Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
-      "Gana 115 GB",
-      "Gana 4.5 GB Roaming",
-    ],
-    ahorro_anual: 480,
-    permite_downselling: true,
-  },
-  {
     origen_id: 66,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 129.90",
@@ -2351,6 +2361,35 @@ export const lista_opcion = [
   },
   {
     origen_id: 67,
+    opcion_id: 1,
+    plan_nombre: "ENTEL POWER 129.90",
+    lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
+    lista_resumen: [
+      "Gana 125 GB",
+      "Pierde Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
+      "Gana 7 GB roaming",
+    ],
+    ahorro_anual: 240,
+    permite_downselling: true,
+  },
+  {
+    origen_id: 67,
+    opcion_id: 2,
+    plan_nombre: "ENTEL POWER 109.90",
+    lista_beneficios: [
+      "Ilimitado 140 GB en AV",
+      "Roaming: 5.5 GB",
+    ],
+    lista_resumen: [
+      "Pierde Whatsapp, Waze, Spotify, Apple Music y SoundCloud Ilimitado; Facebook e Instagram Full",
+      "Gana 115 GB",
+      "Gana 4.5 GB Roaming",
+    ],
+    ahorro_anual: 480,
+    permite_downselling: true,
+  },
+  {
+    origen_id: 68,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
@@ -2363,7 +2402,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 67,
+    origen_id: 68,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 109.90",
     lista_beneficios: [
@@ -2379,7 +2418,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 68,
+    origen_id: 69,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
@@ -2388,7 +2427,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 68,
+    origen_id: 69,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 109.90",
     lista_beneficios: [
@@ -2403,7 +2442,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 69,
+    origen_id: 70,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
@@ -2412,7 +2451,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 69,
+    origen_id: 70,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 109.90",
     lista_beneficios: [
@@ -2427,7 +2466,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 70,
+    origen_id: 71,
     opcion_id: 1,
     plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
@@ -2436,7 +2475,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 70,
+    origen_id: 71,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 109.90",
     lista_beneficios: [
@@ -2451,7 +2490,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 71,
+    origen_id: 72,
     opcion_id: 1,
     plan_nombre: "ENTEL CHIP 159.90 PLUS",
     lista_beneficios: ["Ilimitado con 160 GB en AV", "Roaming: 12 GB"],
@@ -2460,7 +2499,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 71,
+    origen_id: 72,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: [
@@ -2475,7 +2514,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 72,
+    origen_id: 73,
     opcion_id: 1,
     plan_nombre: "ENTEL CHIP 159.90 PLUS",
     lista_beneficios: ["Ilimitado con 160 GB en AV", "Roaming: 12 GB"],
@@ -2484,7 +2523,7 @@ export const lista_opcion = [
     permite_downselling: true,
   },
   {
-    origen_id: 72,
+    origen_id: 73,
     opcion_id: 2,
     plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: [
