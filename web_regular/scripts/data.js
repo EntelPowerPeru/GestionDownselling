@@ -807,7 +807,7 @@ export const lista_opcion = [
   {
     origen_id: 12,
     opcion_id: 1,
-    plan_nombre: "Opción 1 Sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -820,7 +820,7 @@ export const lista_opcion = [
   {
     origen_id: 12,
     opcion_id: 2,
-    plan_nombre: "Opción 2 Sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -850,7 +850,7 @@ export const lista_opcion = [
   {
     origen_id: 13,
     opcion_id: 2,
-    plan_nombre: "Opción 2 Sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -880,7 +880,7 @@ export const lista_opcion = [
   {
     origen_id: 14,
     opcion_id: 2,
-    plan_nombre: "Opción 2 Sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -895,7 +895,7 @@ export const lista_opcion = [
   {
     origen_id: 15,
     opcion_id: 1,
-    plan_nombre: "Opción 1 Sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -908,7 +908,7 @@ export const lista_opcion = [
   {
     origen_id: 15,
     opcion_id: 2,
-    plan_nombre: "Opción 2 Sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -939,7 +939,7 @@ export const lista_opcion = [
   {
     origen_id: 16,
     opcion_id: 2,
-    plan_nombre: "Opción 2 Sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1182,7 +1182,7 @@ export const lista_opcion = [
   {
     origen_id: 28,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1195,7 +1195,7 @@ export const lista_opcion = [
   {
     origen_id: 28,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1210,7 +1210,7 @@ export const lista_opcion = [
   {
     origen_id: 29,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1223,7 +1223,7 @@ export const lista_opcion = [
   {
     origen_id: 29,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1238,7 +1238,7 @@ export const lista_opcion = [
   {
     origen_id: 30,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1251,7 +1251,7 @@ export const lista_opcion = [
   {
     origen_id: 30,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1266,7 +1266,7 @@ export const lista_opcion = [
   {
     origen_id: 31,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1279,7 +1279,7 @@ export const lista_opcion = [
   {
     origen_id: 31,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1294,7 +1294,7 @@ export const lista_opcion = [
   {
     origen_id: 32,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1307,7 +1307,7 @@ export const lista_opcion = [
   {
     origen_id: 32,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1322,7 +1322,7 @@ export const lista_opcion = [
   {
     origen_id: 33,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1339,7 +1339,7 @@ export const lista_opcion = [
   {
     origen_id: 33,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1356,7 +1356,7 @@ export const lista_opcion = [
   {
     origen_id: 34,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1369,7 +1369,7 @@ export const lista_opcion = [
   {
     origen_id: 34,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1456,7 +1456,7 @@ export const lista_opcion = [
   {
     origen_id: 37,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 44.90",
     lista_beneficios: [
       "40 GB en AV",
       "Whatsapp y Waze Ilimitado; Facebook e Instagram Fotos",
@@ -1671,7 +1671,7 @@ export const lista_opcion = [
   {
     origen_id: 44,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1687,7 +1687,7 @@ export const lista_opcion = [
   {
     origen_id: 44,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1703,7 +1703,7 @@ export const lista_opcion = [
   {
     origen_id: 45,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1716,7 +1716,7 @@ export const lista_opcion = [
   {
     origen_id: 45,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1731,7 +1731,7 @@ export const lista_opcion = [
   {
     origen_id: 46,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1747,7 +1747,7 @@ export const lista_opcion = [
   {
     origen_id: 46,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1763,7 +1763,7 @@ export const lista_opcion = [
   {
     origen_id: 47,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1778,7 +1778,7 @@ export const lista_opcion = [
   {
     origen_id: 47,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1810,7 +1810,7 @@ export const lista_opcion = [
   {
     origen_id: 48,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1839,7 +1839,7 @@ export const lista_opcion = [
   {
     origen_id: 49,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1868,7 +1868,7 @@ export const lista_opcion = [
   {
     origen_id: 50,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1897,7 +1897,7 @@ export const lista_opcion = [
   {
     origen_id: 51,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1923,7 +1923,7 @@ export const lista_opcion = [
   {
     origen_id: 52,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1951,7 +1951,7 @@ export const lista_opcion = [
   {
     origen_id: 53,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -1979,7 +1979,7 @@ export const lista_opcion = [
   {
     origen_id: 54,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -2007,7 +2007,7 @@ export const lista_opcion = [
   {
     origen_id: 55,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER CHIP 66.90",
     lista_beneficios: [
       "100 GB en AV",
       "Whatsapp y Waze; Facebook e Instagram Fotos",
@@ -2279,7 +2279,7 @@ export const lista_opcion = [
   {
     origen_id: 66,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
     lista_resumen: [
       "Gana 125 GB",
@@ -2308,7 +2308,7 @@ export const lista_opcion = [
   {
     origen_id: 67,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
     lista_resumen: [
       "Gana 125 GB",
@@ -2337,7 +2337,7 @@ export const lista_opcion = [
   {
     origen_id: 68,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
     lista_resumen: [
       "Gana 136 GB",
@@ -2366,7 +2366,7 @@ export const lista_opcion = [
   {
     origen_id: 69,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
     lista_resumen: ["Gana 104 GB", "Gana 8 GB roaming"],
     ahorro_anual: 324,
@@ -2390,7 +2390,7 @@ export const lista_opcion = [
   {
     origen_id: 70,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
     lista_resumen: ["Pierde 10 GB", "Pierde 4 GB roaming"],
     ahorro_anual: 360,
@@ -2414,7 +2414,7 @@ export const lista_opcion = [
   {
     origen_id: 71,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: ["Ilimitado con 150 GB en AV", "Roaming: 8 GB"],
     lista_resumen: ["Gana 105 GB", "Gana 1 GB roaming"],
     ahorro_anual: 360,
@@ -2438,7 +2438,7 @@ export const lista_opcion = [
   {
     origen_id: 72,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER 159.90 PLUS",
     lista_beneficios: ["Ilimitado con 160 GB en AV", "Roaming: 12 GB"],
     lista_resumen: ["Pierde 10 GB", "Pierde 4 GB roaming"],
     ahorro_anual: 480,
@@ -2447,7 +2447,7 @@ export const lista_opcion = [
   {
     origen_id: 72,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: [
       "Ilimitado con 150 GB en AV",
       "Roaming: 8 GB",
@@ -2462,7 +2462,7 @@ export const lista_opcion = [
   {
     origen_id: 73,
     opcion_id: 1,
-    plan_nombre: "Opción 1 sin Incremento",
+    plan_nombre: "ENTEL POWER 159.90 PLUS",
     lista_beneficios: ["Ilimitado con 160 GB en AV", "Roaming: 12 GB"],
     lista_resumen: ["Pierde 10 GB", "Pierde 4 GB roaming"],
     ahorro_anual: 480,
@@ -2471,7 +2471,7 @@ export const lista_opcion = [
   {
     origen_id: 73,
     opcion_id: 2,
-    plan_nombre: "Opción 2 sin Incremento",
+    plan_nombre: "ENTEL POWER 129.90",
     lista_beneficios: [
       "Ilimitado con 150 GB en AV",
       "Roaming: 8 GB",
