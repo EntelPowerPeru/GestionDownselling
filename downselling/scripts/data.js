@@ -51,14 +51,14 @@ export const lista_origen = [
   },
   {
     "q_linea": 2,
-    "origen_nombre": "Entel Power Familiar+ 49.90 N",
+    "origen_nombre": "Entel power familiar+ 53.90 N",
     "lista_beneficios": [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
-      "Ahorro actual: S/180 al año"
+      "Ahorro actual: S/228 al año"
     ],
-    "ahorro_anual": -180
+    "ahorro_anual": -228
   },
   {
     "q_linea": 2,
@@ -224,13 +224,13 @@ export const lista_origen = [
   },
   {
     "q_linea": 2,
-    "origen_nombre": "Entel Power Familiar 89.90 SD N",
+    "origen_nombre": "Entel power familiar 94.90 SD N",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB",
-      "Ahorro actual: S/660 al año"
+      "Ahorro actual: S/-720 al año"
     ],
-    "ahorro_anual": -660
+    "ahorro_anual": 720
   },
   {
     "q_linea": 2,
@@ -418,14 +418,14 @@ export const lista_origen = [
   },
   {
     "q_linea": 3,
-    "origen_nombre": "Entel Power Familiar+ 49.90 N",
+    "origen_nombre": "Entel power familiar+ 53.90 N",
     "lista_beneficios": [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
-      "Ahorro actual: S/360 al año"
+      "Ahorro actual: S/456 al año"
     ],
-    "ahorro_anual": -360
+    "ahorro_anual": -456
   },
   {
     "q_linea": 3,
@@ -581,13 +581,13 @@ export const lista_origen = [
   },
   {
     "q_linea": 3,
-    "origen_nombre": "Entel Power Familiar 89.90 SD N",
+    "origen_nombre": "Entel power familiar 94.90 SD N",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB",
-      "Ahorro actual: S/1320 al año"
+      "Ahorro actual: S/-1440 al año"
     ],
-    "ahorro_anual": -1320
+    "ahorro_anual": 1440
   },
   {
     "q_linea": 3,
@@ -796,14 +796,14 @@ export const lista_origen = [
   },
   {
     "q_linea": 4,
-    "origen_nombre": "Entel Power Familiar+ 49.90 N",
+    "origen_nombre": "Entel power familiar+ 53.90 N",
     "lista_beneficios": [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
-      "Ahorro actual: S/540 al año"
+      "Ahorro actual: S/684 al año"
     ],
-    "ahorro_anual": -540
+    "ahorro_anual": -684
   },
   {
     "q_linea": 4,
@@ -948,13 +948,13 @@ export const lista_origen = [
   },
   {
     "q_linea": 4,
-    "origen_nombre": "Entel Power Familiar 89.90 SD N",
+    "origen_nombre": "Entel power familiar 94.90 SD N",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB",
-      "Ahorro actual: S/1980 al año"
+      "Ahorro actual: S/-2160 al año"
     ],
-    "ahorro_anual": -1980
+    "ahorro_anual": 2160
   },
   {
     "q_linea": 4,
@@ -1163,14 +1163,14 @@ export const lista_origen = [
   },
   {
     "q_linea": 5,
-    "origen_nombre": "Entel Power Familiar+ 49.90 N",
+    "origen_nombre": "Entel power familiar+ 53.90 N",
     "lista_beneficios": [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
-      "Ahorro actual: S/720 al año"
+      "Ahorro actual: S/912 al año"
     ],
-    "ahorro_anual": -720
+    "ahorro_anual": -912
   },
   {
     "q_linea": 5,
@@ -1325,13 +1325,13 @@ export const lista_origen = [
   },
   {
     "q_linea": 5,
-    "origen_nombre": "Entel Power Familiar 89.90 SD N",
+    "origen_nombre": "Entel power familiar 94.90 SD N",
     "lista_beneficios": [
       "Ilimitado en AV",
       "Roaming: 3.5 GB",
-      "Ahorro actual: S/2640 al año"
+      "Ahorro actual: S/-2880 al año"
     ],
-    "ahorro_anual": -2640
+    "ahorro_anual": 2880
   },
   {
     "q_linea": 5,
@@ -1614,9 +1614,26 @@ export const lista_opciones = [
   },
   {
     "opcion_id": 1,
+    "opcion_nombre": "Entel Power Familiar+ 49.90 R",
+    "q_linea": 2,
+    "origen_nombre": "Entel power familiar+ 53.90 N",
+    "lista_beneficios": [
+      "35 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_cambios": [
+      "Sin cambio"
+    ],
+    "total_mes_sin_plan_familia": 99.8,
+    "total_mes_con_plan_familia": 84.8,
+    "ahorro_anual": 180
+  },
+  {
+    "opcion_id": 2,
     "opcion_nombre": "Entel power familiar+ 39.90 R",
     "q_linea": 2,
-    "origen_nombre": "Entel Power Familiar+ 49.90 N",
+    "origen_nombre": "Entel power familiar+ 53.90 N",
     "lista_beneficios": [
       "25 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -1628,23 +1645,6 @@ export const lista_opciones = [
     "total_mes_sin_plan_familia": 79.8,
     "total_mes_con_plan_familia": 74.8,
     "ahorro_anual": 60
-  },
-  {
-    "opcion_id": 2,
-    "opcion_nombre": "Entel chip+ 29.90 R",
-    "q_linea": 2,
-    "origen_nombre": "Entel Power Familiar+ 49.90 N",
-    "lista_beneficios": [
-      "10 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_cambios": [
-      "Pierde 25 GB"
-    ],
-    "total_mes_sin_plan_familia": "-",
-    "total_mes_con_plan_familia": "-",
-    "ahorro_anual": "-"
   },
   {
     "opcion_id": 1,
@@ -2189,9 +2189,25 @@ export const lista_opciones = [
   },
   {
     "opcion_id": 1,
+    "opcion_nombre": "Entel power familiar 89.90 SD R",
+    "q_linea": 2,
+    "origen_nombre": "Entel power familiar 94.90 SD N",
+    "lista_beneficios": [
+      "Ilimitado en AV",
+      "Roaming: 3.5 GB"
+    ],
+    "lista_cambios": [
+      "Sin cambio"
+    ],
+    "total_mes_sin_plan_familia": 179.8,
+    "total_mes_con_plan_familia": 124.8,
+    "ahorro_anual": 660
+  },
+  {
+    "opcion_id": 2,
     "opcion_nombre": "Entel power Familiar+ 74.90 R",
     "q_linea": 2,
-    "origen_nombre": "Entel Power Familiar 89.90 SD N",
+    "origen_nombre": "Entel power familiar 94.90 SD N",
     "lista_beneficios": [
       "120 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
@@ -2203,24 +2219,6 @@ export const lista_opciones = [
     "total_mes_sin_plan_familia": 149.8,
     "total_mes_con_plan_familia": 109.8,
     "ahorro_anual": 480
-  },
-  {
-    "opcion_id": 2,
-    "opcion_nombre": "Entel Power Familiar+ 59.90 R",
-    "q_linea": 2,
-    "origen_nombre": "Entel Power Familiar 89.90 SD N",
-    "lista_beneficios": [
-      "75 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado, FB e IG FULL",
-      "Roaming: 3 GB"
-    ],
-    "lista_cambios": [
-      "Pierde ilimitado sin fair use en alta velocidad",
-      "Pierde 0.5 GB Roaming"
-    ],
-    "total_mes_sin_plan_familia": 119.8,
-    "total_mes_con_plan_familia": 94.8,
-    "ahorro_anual": 300
   },
   {
     "opcion_id": 1,
@@ -2850,9 +2848,26 @@ export const lista_opciones = [
   },
   {
     "opcion_id": 1,
+    "opcion_nombre": "Entel Power Familiar+ 49.90 R",
+    "q_linea": 3,
+    "origen_nombre": "Entel power familiar+ 53.90 N",
+    "lista_beneficios": [
+      "35 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_cambios": [
+      "Sin cambio"
+    ],
+    "total_mes_sin_plan_familia": 149.7,
+    "total_mes_con_plan_familia": 119.7,
+    "ahorro_anual": 360
+  },
+  {
+    "opcion_id": 2,
     "opcion_nombre": "Entel power familiar+ 39.90 R",
     "q_linea": 3,
-    "origen_nombre": "Entel Power Familiar+ 49.90 N",
+    "origen_nombre": "Entel power familiar+ 53.90 N",
     "lista_beneficios": [
       "25 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -2864,23 +2879,6 @@ export const lista_opciones = [
     "total_mes_sin_plan_familia": 119.7,
     "total_mes_con_plan_familia": 109.7,
     "ahorro_anual": 120
-  },
-  {
-    "opcion_id": 2,
-    "opcion_nombre": "Entel chip+ 29.90 R",
-    "q_linea": 3,
-    "origen_nombre": "Entel Power Familiar+ 49.90 N",
-    "lista_beneficios": [
-      "10 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_cambios": [
-      "Pierde 25 GB"
-    ],
-    "total_mes_sin_plan_familia": "-",
-    "total_mes_con_plan_familia": "-",
-    "ahorro_anual": "-"
   },
   {
     "opcion_id": 1,
@@ -3390,9 +3388,25 @@ export const lista_opciones = [
   },
   {
     "opcion_id": 1,
+    "opcion_nombre": "Entel power familiar 89.90 SD R",
+    "q_linea": 3,
+    "origen_nombre": "Entel power familiar 94.90 SD N",
+    "lista_beneficios": [
+      "Ilimitado en AV",
+      "Roaming: 3.5 GB"
+    ],
+    "lista_cambios": [
+      "Sin cambio"
+    ],
+    "total_mes_sin_plan_familia": 269.7,
+    "total_mes_con_plan_familia": 159.7,
+    "ahorro_anual": 1320
+  },
+  {
+    "opcion_id": 2,
     "opcion_nombre": "Entel power Familiar+ 74.90 R",
     "q_linea": 3,
-    "origen_nombre": "Entel Power Familiar 89.90 SD N",
+    "origen_nombre": "Entel power familiar 94.90 SD N",
     "lista_beneficios": [
       "120 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
@@ -3404,24 +3418,6 @@ export const lista_opciones = [
     "total_mes_sin_plan_familia": 224.7,
     "total_mes_con_plan_familia": 144.7,
     "ahorro_anual": 960
-  },
-  {
-    "opcion_id": 2,
-    "opcion_nombre": "Entel Power Familiar+ 59.90 R",
-    "q_linea": 3,
-    "origen_nombre": "Entel Power Familiar 89.90 SD N",
-    "lista_beneficios": [
-      "75 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado, FB e IG FULL",
-      "Roaming: 3 GB"
-    ],
-    "lista_cambios": [
-      "Pierde ilimitado sin fair use en alta velocidad",
-      "Pierde 0.5 GB Roaming"
-    ],
-    "total_mes_sin_plan_familia": 179.7,
-    "total_mes_con_plan_familia": 129.7,
-    "ahorro_anual": 600
   },
   {
     "opcion_id": 1,
@@ -4122,9 +4118,26 @@ export const lista_opciones = [
   },
   {
     "opcion_id": 1,
+    "opcion_nombre": "Entel Power Familiar+ 49.90 R",
+    "q_linea": 4,
+    "origen_nombre": "Entel power familiar+ 53.90 N",
+    "lista_beneficios": [
+      "35 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_cambios": [
+      "Sin cambio"
+    ],
+    "total_mes_sin_plan_familia": 199.6,
+    "total_mes_con_plan_familia": 154.6,
+    "ahorro_anual": 540
+  },
+  {
+    "opcion_id": 2,
     "opcion_nombre": "Entel power familiar+ 39.90 R",
     "q_linea": 4,
-    "origen_nombre": "Entel Power Familiar+ 49.90 N",
+    "origen_nombre": "Entel power familiar+ 53.90 N",
     "lista_beneficios": [
       "25 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -4136,23 +4149,6 @@ export const lista_opciones = [
     "total_mes_sin_plan_familia": 159.6,
     "total_mes_con_plan_familia": 144.6,
     "ahorro_anual": 180
-  },
-  {
-    "opcion_id": 2,
-    "opcion_nombre": "Entel chip+ 29.90 R",
-    "q_linea": 4,
-    "origen_nombre": "Entel Power Familiar+ 49.90 N",
-    "lista_beneficios": [
-      "10 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_cambios": [
-      "Pierde 25 GB"
-    ],
-    "total_mes_sin_plan_familia": "-",
-    "total_mes_con_plan_familia": "-",
-    "ahorro_anual": "-"
   },
   {
     "opcion_id": 1,
@@ -4626,9 +4622,25 @@ export const lista_opciones = [
   },
   {
     "opcion_id": 1,
+    "opcion_nombre": "Entel power familiar 89.90 SD R",
+    "q_linea": 4,
+    "origen_nombre": "Entel power familiar 94.90 SD N",
+    "lista_beneficios": [
+      "Ilimitado en AV",
+      "Roaming: 3.5 GB"
+    ],
+    "lista_cambios": [
+      "Sin cambio"
+    ],
+    "total_mes_sin_plan_familia": 359.6,
+    "total_mes_con_plan_familia": 194.6,
+    "ahorro_anual": 1980
+  },
+  {
+    "opcion_id": 2,
     "opcion_nombre": "Entel power Familiar+ 74.90 R",
     "q_linea": 4,
-    "origen_nombre": "Entel Power Familiar 89.90 SD N",
+    "origen_nombre": "Entel power familiar 94.90 SD N",
     "lista_beneficios": [
       "120 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
@@ -4640,24 +4652,6 @@ export const lista_opciones = [
     "total_mes_sin_plan_familia": 299.6,
     "total_mes_con_plan_familia": 179.6,
     "ahorro_anual": 1440
-  },
-  {
-    "opcion_id": 2,
-    "opcion_nombre": "Entel Power Familiar+ 59.90 R",
-    "q_linea": 4,
-    "origen_nombre": "Entel Power Familiar 89.90 SD N",
-    "lista_beneficios": [
-      "75 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado, FB e IG FULL",
-      "Roaming: 3 GB"
-    ],
-    "lista_cambios": [
-      "Pierde ilimitado sin fair use en alta velocidad",
-      "Pierde 0.5 GB Roaming"
-    ],
-    "total_mes_sin_plan_familia": 239.6,
-    "total_mes_con_plan_familia": 164.6,
-    "ahorro_anual": 900
   },
   {
     "opcion_id": 1,
@@ -5359,9 +5353,26 @@ export const lista_opciones = [
   },
   {
     "opcion_id": 1,
+    "opcion_nombre": "Entel Power Familiar+ 49.90 R",
+    "q_linea": 5,
+    "origen_nombre": "Entel power familiar+ 53.90 N",
+    "lista_beneficios": [
+      "35 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_cambios": [
+      "Sin cambio"
+    ],
+    "total_mes_sin_plan_familia": 249.5,
+    "total_mes_con_plan_familia": 189.5,
+    "ahorro_anual": 720
+  },
+  {
+    "opcion_id": 2,
     "opcion_nombre": "Entel power familiar+ 39.90 R",
     "q_linea": 5,
-    "origen_nombre": "Entel Power Familiar+ 49.90 N",
+    "origen_nombre": "Entel power familiar+ 53.90 N",
     "lista_beneficios": [
       "25 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
@@ -5373,23 +5384,6 @@ export const lista_opciones = [
     "total_mes_sin_plan_familia": 199.5,
     "total_mes_con_plan_familia": 179.5,
     "ahorro_anual": 240
-  },
-  {
-    "opcion_id": 2,
-    "opcion_nombre": "Entel chip+ 29.90 R",
-    "q_linea": 5,
-    "origen_nombre": "Entel Power Familiar+ 49.90 N",
-    "lista_beneficios": [
-      "10 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_cambios": [
-      "Pierde 25 GB"
-    ],
-    "total_mes_sin_plan_familia": "-",
-    "total_mes_con_plan_familia": "-",
-    "ahorro_anual": "-"
   },
   {
     "opcion_id": 1,
@@ -5899,9 +5893,25 @@ export const lista_opciones = [
   },
   {
     "opcion_id": 1,
+    "opcion_nombre": "Entel power familiar 89.90 SD R",
+    "q_linea": 5,
+    "origen_nombre": "Entel power familiar 94.90 SD N",
+    "lista_beneficios": [
+      "Ilimitado en AV",
+      "Roaming: 3.5 GB"
+    ],
+    "lista_cambios": [
+      "Sin cambio"
+    ],
+    "total_mes_sin_plan_familia": 449.5,
+    "total_mes_con_plan_familia": 229.5,
+    "ahorro_anual": 2640
+  },
+  {
+    "opcion_id": 2,
     "opcion_nombre": "Entel power Familiar+ 74.90 R",
     "q_linea": 5,
-    "origen_nombre": "Entel Power Familiar 89.90 SD N",
+    "origen_nombre": "Entel power familiar 94.90 SD N",
     "lista_beneficios": [
       "120 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
@@ -5913,24 +5923,6 @@ export const lista_opciones = [
     "total_mes_sin_plan_familia": 374.5,
     "total_mes_con_plan_familia": 214.5,
     "ahorro_anual": 1920
-  },
-  {
-    "opcion_id": 2,
-    "opcion_nombre": "Entel Power Familiar+ 59.90 R",
-    "q_linea": 5,
-    "origen_nombre": "Entel Power Familiar 89.90 SD N",
-    "lista_beneficios": [
-      "75 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado, FB e IG FULL",
-      "Roaming: 3 GB"
-    ],
-    "lista_cambios": [
-      "Pierde ilimitado sin fair use en alta velocidad",
-      "Pierde 0.5 GB Roaming"
-    ],
-    "total_mes_sin_plan_familia": 299.5,
-    "total_mes_con_plan_familia": 199.5,
-    "ahorro_anual": 1200
   },
   {
     "opcion_id": 1,
