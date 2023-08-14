@@ -745,7 +745,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "No pierde GB"
+      "Pierde 2 GB"
     ],
     "ahorro_anual": 24,
     "permite_downselling": true
@@ -787,7 +787,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "No pierde GB"
+      "Pierde 4 GB"
     ],
     "ahorro_anual": 36,
     "permite_downselling": true
@@ -802,7 +802,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 2 GB"
+      "Pierde 6 GB"
     ],
     "ahorro_anual": 84,
     "permite_downselling": true
@@ -841,7 +841,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 1GB"
+      "Pierde 3 GB"
     ],
     "ahorro_anual": 18,
     "permite_downselling": true
@@ -856,7 +856,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 3 GB"
+      "Pierde 5 GB"
     ],
     "ahorro_anual": 66,
     "permite_downselling": true
@@ -871,9 +871,9 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 3 GB"
+      "Pierde 12 GB"
     ],
-    "ahorro_anual": 36,
+    "ahorro_anual": 72,
     "permite_downselling": true
   },
   {
@@ -901,7 +901,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "No pierde GB"
+      "Pierde 4 GB"
     ],
     "ahorro_anual": 36,
     "permite_downselling": true
@@ -916,7 +916,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 2 GB"
+      "Pierde 6 GB"
     ],
     "ahorro_anual": 84,
     "permite_downselling": true
@@ -955,7 +955,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 1GB"
+      "Pierde 3 GB"
     ],
     "ahorro_anual": 18,
     "permite_downselling": true
@@ -970,7 +970,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 3 GB"
+      "Pierde 5 GB"
     ],
     "ahorro_anual": 66,
     "permite_downselling": true
@@ -985,7 +985,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 5GB"
+      "Pierde 8 GB"
     ],
     "ahorro_anual": 72,
     "permite_downselling": true
@@ -1000,7 +1000,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 7 GB"
+      "Pierde 10 GB"
     ],
     "ahorro_anual": 120,
     "permite_downselling": true
@@ -1015,7 +1015,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "No pierde GB"
+      "Pierde 9 GB"
     ],
     "ahorro_anual": 36,
     "permite_downselling": true
@@ -1075,9 +1075,9 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 3 GB"
+      "Pierde 12 GB"
     ],
-    "ahorro_anual": 36,
+    "ahorro_anual": 72,
     "permite_downselling": true
   },
   {
@@ -1105,7 +1105,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "No pierde GB"
+      "Pierde 4 GB"
     ],
     "ahorro_anual": 36,
     "permite_downselling": true
@@ -1120,7 +1120,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 2 GB"
+      "Pierde 6 GB"
     ],
     "ahorro_anual": 84,
     "permite_downselling": true
@@ -1159,7 +1159,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "No pierde GB"
+      "Pierde 9 GB"
     ],
     "ahorro_anual": 36,
     "permite_downselling": true
@@ -1219,7 +1219,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "No pierde GB"
+      "Pierde 12 GB"
     ],
     "ahorro_anual": 48,
     "permite_downselling": true
@@ -1315,7 +1315,7 @@ export const lista_opcion = [
       "Roaming: 3 GB"
     ],
     "lista_resumen": [
-      "No pierde GB"
+      "Pierde 10 GB"
     ],
     "ahorro_anual": 48,
     "permite_downselling": true
@@ -1330,7 +1330,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 40 GB",
+      "Pierde 450GB",
       "Pierde spotify, apple music ilimitado.",
       "Pierde FB e IG Full",
       "Pierde roaming"
@@ -1348,7 +1348,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 40 GB",
+      "Pierde 50 GB",
       "Pierde spotify, apple music ilimitado.",
       "Pierde FB e IG Full",
       "Pierde roaming"
@@ -1384,7 +1384,7 @@ export const lista_opcion = [
       "Roaming: 3.5 GB"
     ],
     "lista_resumen": [
-      "No pierde GB"
+      "Pierde 10 GB"
     ],
     "ahorro_anual": 60,
     "permite_downselling": true
@@ -1392,14 +1392,15 @@ export const lista_opcion = [
   {
     "origen_id": 23,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 59.90 R",
+    "plan_nombre": "Entel Power+59.90 R",
     "lista_beneficios": [
-      "55 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
+      "75 GB en AV",
+      "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB"
     ],
     "lista_resumen": [
-      "Pierde 20 GB"
+      "Pierde 55 GB",
+      "Pierde 0.5 GB Roaming"
     ],
     "ahorro_anual": 240,
     "permite_downselling": true
@@ -1415,7 +1416,7 @@ export const lista_opcion = [
     ],
     "lista_resumen": [
       "Pierde 45  GB",
-      "Mantiene Roaming"
+      "Pierde 0.5 GB Roaming"
     ],
     "ahorro_anual": 180,
     "permite_downselling": true
@@ -1423,16 +1424,19 @@ export const lista_opcion = [
   {
     "origen_id": 24,
     "opcion_id": 2,
-    "plan_nombre": "Entel power+ 59.90 R",
+    "plan_nombre": "Entel power+ 49.90 R",
     "lista_beneficios": [
-      "75 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
-      "Roaming: 3 GB"
+      "35 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 45 GB"
+      "Pierde 85 GB",
+      "Pierde spotify, apple music ilimitado.",
+      "Pierde FB e IG Full",
+      "Pierde roaming"
     ],
-    "ahorro_anual": 180,
+    "ahorro_anual": 300,
     "permite_downselling": true
   },
   {
@@ -1606,7 +1610,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "No pierde GB"
+      "Pierde 2 GB"
     ],
     "ahorro_anual": 24,
     "permite_downselling": true
@@ -1648,7 +1652,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 1GB"
+      "Pierde 3 GB"
     ],
     "ahorro_anual": 18,
     "permite_downselling": true
@@ -1663,7 +1667,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 3 GB"
+      "Pierde 5 GB"
     ],
     "ahorro_anual": 66,
     "permite_downselling": true
@@ -1678,7 +1682,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 1GB"
+      "Pierde 3 GB"
     ],
     "ahorro_anual": 18,
     "permite_downselling": true
@@ -1693,7 +1697,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 3 GB"
+      "Pierde 5 GB"
     ],
     "ahorro_anual": 66,
     "permite_downselling": true
@@ -1708,7 +1712,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 5GB"
+      "Pierde 8 GB"
     ],
     "ahorro_anual": 36,
     "permite_downselling": true
@@ -1723,7 +1727,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 7 GB"
+      "Pierde 10 GB"
     ],
     "ahorro_anual": 84,
     "permite_downselling": true
@@ -1733,14 +1737,14 @@ export const lista_opcion = [
     "opcion_id": 1,
     "plan_nombre": "Entel chip 35.90",
     "lista_beneficios": [
-      "10 GB en AV",
+      "18 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 10 GB"
+      "Pierde 12 GB"
     ],
-    "ahorro_anual": 96,
+    "ahorro_anual": 24,
     "permite_downselling": true
   },
   {
@@ -1771,7 +1775,7 @@ export const lista_opcion = [
       "Gana 12 GB",
       "Gana Whatsapp y waze ilimitado , FB e IG fotos"
     ],
-    "ahorro_anual": 168,
+    "ahorro_anual": 24,
     "permite_downselling": true
   },
   {
@@ -1799,9 +1803,9 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 3 GB"
+      "Pierde 12 GB"
     ],
-    "ahorro_anual": 36,
+    "ahorro_anual": 72,
     "permite_downselling": true
   },
   {
@@ -1831,7 +1835,7 @@ export const lista_opcion = [
     "lista_resumen": [
       "Pierde 4 GB"
     ],
-    "ahorro_anual": 12,
+    "ahorro_anual": 48,
     "permite_downselling": true
   },
   {
@@ -1844,9 +1848,9 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 5 GB"
+      "Pierde 16 GB"
     ],
-    "ahorro_anual": 72,
+    "ahorro_anual": 120,
     "permite_downselling": true
   },
   {
@@ -1859,7 +1863,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Gana 3 GB"
+      "Piere 8 GB"
     ],
     "ahorro_anual": 36,
     "permite_downselling": true
@@ -1889,7 +1893,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "No pierde GB"
+      "Pierde 12 GB"
     ],
     "ahorro_anual": 48,
     "permite_downselling": true
@@ -1934,7 +1938,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 10 GB"
+      "Gana 11 GB"
     ],
     "ahorro_anual": 120,
     "permite_downselling": true
@@ -1964,7 +1968,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 10 GB"
+      "Gana 11 GB"
     ],
     "ahorro_anual": 120,
     "permite_downselling": true
@@ -1994,7 +1998,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 10 GB"
+      "Gana 5 GB"
     ],
     "ahorro_anual": 96,
     "permite_downselling": true
@@ -2108,8 +2112,7 @@ export const lista_opcion = [
       "Roaming: 3 GB"
     ],
     "lista_resumen": [
-      "pierde 10 GB",
-      "Gana 3GB Roaming"
+      "Pierde 20 GB"
     ],
     "ahorro_anual": 120,
     "permite_downselling": true
@@ -2124,7 +2127,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 50 GB",
+      "Pierde 60 GB",
       "Pierde spotify, apple music ilimitado.",
       "Pierde FB e IG Full",
       "Pierde roaming"
@@ -2142,10 +2145,10 @@ export const lista_opcion = [
       "Roaming: 3 GB"
     ],
     "lista_resumen": [
-      "pierde 10 GB",
+      "pierde 20 GB",
       "Gana 3GB Roaming"
     ],
-    "ahorro_anual": 72,
+    "ahorro_anual": 120,
     "permite_downselling": true
   },
   {
@@ -2158,12 +2161,12 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 50 GB",
+      "Pierde 60 GB",
       "Pierde spotify, apple music ilimitado.",
       "Pierde FB e IG Full",
       "Pierde roaming"
     ],
-    "ahorro_anual": 192,
+    "ahorro_anual": 240,
     "permite_downselling": true
   },
   {
@@ -2177,7 +2180,7 @@ export const lista_opcion = [
     ],
     "lista_resumen": [
       "Pierde ilimitado",
-      "Gana 59 GB",
+      "Gana 55 GB",
       "Gana Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Gana 3GB Roaming"
     ],
@@ -2194,7 +2197,7 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde ilimitado Y Gana 19 GB AV",
+      "Pierde ilimitado Y Gana 15 GB AV",
       "Gana RRSS ilimitadas"
     ],
     "ahorro_anual": 240,
@@ -2375,7 +2378,7 @@ export const lista_opcion = [
       "Roaming: 3.5 GB"
     ],
     "lista_resumen": [
-      "Gana 20 GB",
+      "Gana 10 GB",
       "Gana 3.5 GB Roaming"
     ],
     "ahorro_anual": 60,
@@ -2407,7 +2410,7 @@ export const lista_opcion = [
       "Roaming: 3.5 GB"
     ],
     "lista_resumen": [
-      "Gana 20 GB",
+      "Gana 10 GB",
       "Gana 3.5 GB Roaming"
     ],
     "ahorro_anual": 60,
@@ -2473,7 +2476,7 @@ export const lista_opcion = [
     ],
     "lista_resumen": [
       "Pierde soundcloud",
-      "Gana 10 GB",
+      "Pierde 20 GB",
       "Gana 3.5 Gb Roaming"
     ],
     "ahorro_anual": 120,
@@ -2505,7 +2508,7 @@ export const lista_opcion = [
     ],
     "lista_resumen": [
       "Pierde soundcloud",
-      "Gana 111GB",
+      "Gana 106 GB",
       "Gana 3.5GB Roaming"
     ],
     "ahorro_anual": 180,
@@ -2553,7 +2556,7 @@ export const lista_opcion = [
     ],
     "lista_resumen": [
       "Pierde soundcloud",
-      "Gana 5GB",
+      "No Pierde GB",
       "Gana 3.5Gb roaming"
     ],
     "ahorro_anual": 240,
@@ -2585,7 +2588,7 @@ export const lista_opcion = [
     ],
     "lista_resumen": [
       "Pierde soundcloud",
-      "Gana 5GB",
+      "Gana 99 GB",
       "Gana 3.5Gb roaming"
     ],
     "ahorro_anual": 300,
@@ -2617,7 +2620,7 @@ export const lista_opcion = [
     ],
     "lista_resumen": [
       "Pierde soundcloud",
-      "Gana 5GB",
+      "Pierde 5 GB",
       "Gana 3.5Gb roaming"
     ],
     "ahorro_anual": 300,
@@ -2649,7 +2652,7 @@ export const lista_opcion = [
     ],
     "lista_resumen": [
       "Pierde soundcloud",
-      "Gana 5GB",
+      "Pierde 15 GB",
       "Gana 3.5Gb roaming"
     ],
     "ahorro_anual": 300,
@@ -2681,7 +2684,7 @@ export const lista_opcion = [
     ],
     "lista_resumen": [
       "Pierde soundcloud",
-      "Gana 5GB",
+      "Pierde 15 GB",
       "Gana 3.5Gb roaming"
     ],
     "ahorro_anual": 300,
@@ -2712,7 +2715,7 @@ export const lista_opcion = [
       "Roaming: 3.5 GB"
     ],
     "lista_resumen": [
-      "Gana 103 GB",
+      "Gana 98 GB",
       "Gana 2.5 GB roaming"
     ],
     "ahorro_anual": 420,
@@ -2743,7 +2746,7 @@ export const lista_opcion = [
       "Roaming: 3.5 GB"
     ],
     "lista_resumen": [
-      "Gana 102 GB",
+      "Gana 97 GB",
       "Gana 2.5 GB roaming"
     ],
     "ahorro_anual": 492,
@@ -2774,7 +2777,7 @@ export const lista_opcion = [
       "Roaming: 3.5 GB"
     ],
     "lista_resumen": [
-      "Pierde ilimitado y Pierde 20 GB"
+      "Pierde ilimitado y Pierde 30 GB"
     ],
     "ahorro_anual": 420,
     "permite_downselling": true
@@ -2835,7 +2838,7 @@ export const lista_opcion = [
       "Roaming: 3.5 GB"
     ],
     "lista_resumen": [
-      "Gana 100 GB",
+      "Gana 95 GB",
       "Gana 0.5 GB roaming"
     ],
     "ahorro_anual": 550,
@@ -2866,7 +2869,7 @@ export const lista_opcion = [
       "Roaming: 3.5 GB"
     ],
     "lista_resumen": [
-      "Gana 112 GB",
+      "Gana 107 GB",
       "Gana 2.5 GB roaming"
     ],
     "ahorro_anual": 624,
