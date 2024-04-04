@@ -1942,7 +1942,8 @@ export const lista_opcion = [
       "Roaming: no tiene"
     ],
     "lista_resumen": [
-      "Pierde 30 GB en AV"
+      "Pierde 30 GB en AV",
+      "Pierde 2.5 GB de roaming"
     ],
     "ahorro_anual": 120,
     "permite_downselling": true
