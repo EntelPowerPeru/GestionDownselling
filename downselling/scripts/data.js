@@ -23,6 +23,7 @@ export const lista_origen = [
       "26 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 19 GB",
       "Ahorro actual: S/60 al año"
     ],
     "ahorro_anual": -60
@@ -34,6 +35,7 @@ export const lista_origen = [
       "26 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 19 GB",
       "Ahorro actual: S/60 al año"
     ],
     "ahorro_anual": -60
@@ -45,6 +47,7 @@ export const lista_origen = [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 15 GB",
       "Ahorro actual: S/96 al año"
     ],
     "ahorro_anual": -96
@@ -56,6 +59,7 @@ export const lista_origen = [
       "34 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 15 GB",
       "Ahorro actual: S/96 al año"
     ],
     "ahorro_anual": -96
@@ -67,6 +71,7 @@ export const lista_origen = [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 17 GB",
       "Ahorro actual: S/120 al año"
     ],
     "ahorro_anual": -120
@@ -78,6 +83,7 @@ export const lista_origen = [
       "36 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 29 GB",
       "Ahorro actual: S/180 al año"
     ],
     "ahorro_anual": -180
@@ -89,6 +95,7 @@ export const lista_origen = [
       "36 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 29 GB",
       "Ahorro actual: S/180 al año"
     ],
     "ahorro_anual": -180
@@ -111,6 +118,7 @@ export const lista_origen = [
       "48 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 37 GB",
       "Ahorro actual: S/228 al año"
     ],
     "ahorro_anual": -228
@@ -122,6 +130,7 @@ export const lista_origen = [
       "47 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 37 GB",
       "Ahorro actual: S/228 al año"
     ],
     "ahorro_anual": -228
@@ -133,6 +142,7 @@ export const lista_origen = [
       "65 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming: 2.5 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/240 al año"
     ],
     "ahorro_anual": -240
@@ -144,6 +154,7 @@ export const lista_origen = [
       "75 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 2.5 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/300 al año"
     ],
     "ahorro_anual": -300
@@ -166,6 +177,7 @@ export const lista_origen = [
       "75 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 2.5 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/300 al año"
     ],
     "ahorro_anual": -300
@@ -177,6 +189,7 @@ export const lista_origen = [
       "76 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/300 al año"
     ],
     "ahorro_anual": -300
@@ -188,6 +201,7 @@ export const lista_origen = [
       "76 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/300 al año"
     ],
     "ahorro_anual": -300
@@ -199,6 +213,7 @@ export const lista_origen = [
       "85 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/348 al año"
     ],
     "ahorro_anual": -348
@@ -209,6 +224,7 @@ export const lista_origen = [
     "lista_beneficios": [
       "60 GB en AV + ilim",
       "Roaming: no tiene",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/348 al año"
     ],
     "ahorro_anual": -348
@@ -220,6 +236,7 @@ export const lista_origen = [
       "85 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/348 al año"
     ],
     "ahorro_anual": -348
@@ -231,6 +248,7 @@ export const lista_origen = [
       "85 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/348 al año"
     ],
     "ahorro_anual": -348
@@ -242,6 +260,7 @@ export const lista_origen = [
       "Ilimitado 100 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming:  3.5 GB",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/420 al año"
     ],
     "ahorro_anual": -420
@@ -253,6 +272,7 @@ export const lista_origen = [
       "120 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3.5 GB",
+      "Bono recompensa: 40 GB",
       "Ahorro actual: S/480 al año"
     ],
     "ahorro_anual": -480
@@ -264,6 +284,7 @@ export const lista_origen = [
       "120 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3.5 GB",
+      "Bono recompensa: 40 GB",
       "Ahorro actual: S/480 al año"
     ],
     "ahorro_anual": -480
@@ -275,6 +296,7 @@ export const lista_origen = [
       "130 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3.5 GB",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/540 al año"
     ],
     "ahorro_anual": -540
@@ -285,6 +307,7 @@ export const lista_origen = [
     "lista_beneficios": [
       "110 GB en AV + ilim",
       "Roaming: no tiene",
+      "Bono recompensa: 70 GB",
       "Ahorro actual: S/540 al año"
     ],
     "ahorro_anual": -540
@@ -296,6 +319,7 @@ export const lista_origen = [
       "130 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3.5 GB",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/540 al año"
     ],
     "ahorro_anual": -540
@@ -474,8 +498,9 @@ export const lista_origen = [
     "q_linea": 2,
     "origen_nombre": "Entel Power Familiar 159.90",
     "lista_beneficios": [
-      "Ilimitado con 160 GB en AV",
+      "Ilimitado con 161 GB en AV",
       "Roaming: 13 GB Zona Entel",
+      "Bono recompensa: 59 GB",
       "Ahorro actual: S/1500 al año"
     ],
     "ahorro_anual": -1500
@@ -538,6 +563,7 @@ export const lista_origen = [
       "26 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 19 GB",
       "Ahorro actual: S/120 al año"
     ],
     "ahorro_anual": -120
@@ -549,6 +575,7 @@ export const lista_origen = [
       "26 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 19 GB",
       "Ahorro actual: S/120 al año"
     ],
     "ahorro_anual": -120
@@ -560,6 +587,7 @@ export const lista_origen = [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 15 GB",
       "Ahorro actual: S/192 al año"
     ],
     "ahorro_anual": -192
@@ -571,6 +599,7 @@ export const lista_origen = [
       "34 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 15 GB",
       "Ahorro actual: S/192 al año"
     ],
     "ahorro_anual": -192
@@ -582,6 +611,7 @@ export const lista_origen = [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 17 GB",
       "Ahorro actual: S/240 al año"
     ],
     "ahorro_anual": -240
@@ -593,6 +623,7 @@ export const lista_origen = [
       "36 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 29 GB",
       "Ahorro actual: S/360 al año"
     ],
     "ahorro_anual": -360
@@ -604,6 +635,7 @@ export const lista_origen = [
       "36 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 29 GB",
       "Ahorro actual: S/360 al año"
     ],
     "ahorro_anual": -360
@@ -626,6 +658,7 @@ export const lista_origen = [
       "48 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 37 GB",
       "Ahorro actual: S/456 al año"
     ],
     "ahorro_anual": -456
@@ -637,6 +670,7 @@ export const lista_origen = [
       "47 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 37 GB",
       "Ahorro actual: S/456 al año"
     ],
     "ahorro_anual": -456
@@ -648,6 +682,7 @@ export const lista_origen = [
       "65 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming: 2.5 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/480 al año"
     ],
     "ahorro_anual": -480
@@ -659,6 +694,7 @@ export const lista_origen = [
       "75 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 2.5 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/600 al año"
     ],
     "ahorro_anual": -600
@@ -681,6 +717,7 @@ export const lista_origen = [
       "75 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 2.5 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/600 al año"
     ],
     "ahorro_anual": -600
@@ -692,6 +729,7 @@ export const lista_origen = [
       "76 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/600 al año"
     ],
     "ahorro_anual": -600
@@ -703,6 +741,7 @@ export const lista_origen = [
       "76 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/600 al año"
     ],
     "ahorro_anual": -600
@@ -714,6 +753,7 @@ export const lista_origen = [
       "85 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/696 al año"
     ],
     "ahorro_anual": -696
@@ -724,6 +764,7 @@ export const lista_origen = [
     "lista_beneficios": [
       "60 GB en AV + ilim",
       "Roaming: no tiene",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/696 al año"
     ],
     "ahorro_anual": -696
@@ -735,6 +776,7 @@ export const lista_origen = [
       "85 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/696 al año"
     ],
     "ahorro_anual": -696
@@ -746,6 +788,7 @@ export const lista_origen = [
       "85 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/696 al año"
     ],
     "ahorro_anual": -696
@@ -754,9 +797,10 @@ export const lista_origen = [
     "q_linea": 3,
     "origen_nombre": "Entel Power 69.90 C",
     "lista_beneficios": [
-      "100 GB en AV",
+      "Ilimitado 100 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming:  3.5 GB",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/840 al año"
     ],
     "ahorro_anual": -840
@@ -768,6 +812,7 @@ export const lista_origen = [
       "120 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3.5 GB",
+      "Bono recompensa: 40 GB",
       "Ahorro actual: S/480 al año"
     ],
     "ahorro_anual": -480
@@ -790,6 +835,7 @@ export const lista_origen = [
       "130 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3.5 GB",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/1080 al año"
     ],
     "ahorro_anual": -1080
@@ -800,6 +846,7 @@ export const lista_origen = [
     "lista_beneficios": [
       "110 GB en AV + ilim",
       "Roaming: no tiene",
+      "Bono recompensa: 70 GB",
       "Ahorro actual: S/1080 al año"
     ],
     "ahorro_anual": -1080
@@ -811,6 +858,7 @@ export const lista_origen = [
       "130 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3.5 GB",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/1080 al año"
     ],
     "ahorro_anual": -1080
@@ -989,8 +1037,9 @@ export const lista_origen = [
     "q_linea": 3,
     "origen_nombre": "Entel Power Familiar 159.90",
     "lista_beneficios": [
-      "Ilimitado con 160 GB en AV",
+      "Ilimitado con 161 GB en AV",
       "Roaming: 13 GB Zona Entel",
+      "Bono recompensa: 59 GB",
       "Ahorro actual: S/3000 al año"
     ],
     "ahorro_anual": -3000
@@ -1053,6 +1102,7 @@ export const lista_origen = [
       "26 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 19 GB",
       "Ahorro actual: S/180 al año"
     ],
     "ahorro_anual": -180
@@ -1064,6 +1114,7 @@ export const lista_origen = [
       "26 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 19 GB",
       "Ahorro actual: S/180 al año"
     ],
     "ahorro_anual": -180
@@ -1075,6 +1126,7 @@ export const lista_origen = [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 15 GB",
       "Ahorro actual: S/288 al año"
     ],
     "ahorro_anual": -288
@@ -1086,6 +1138,7 @@ export const lista_origen = [
       "34 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 15 GB",
       "Ahorro actual: S/288 al año"
     ],
     "ahorro_anual": -288
@@ -1097,6 +1150,7 @@ export const lista_origen = [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 17 GB",
       "Ahorro actual: S/360 al año"
     ],
     "ahorro_anual": -360
@@ -1108,6 +1162,7 @@ export const lista_origen = [
       "36 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 29 GB",
       "Ahorro actual: S/540 al año"
     ],
     "ahorro_anual": -540
@@ -1119,6 +1174,7 @@ export const lista_origen = [
       "36 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 29 GB",
       "Ahorro actual: S/540 al año"
     ],
     "ahorro_anual": -540
@@ -1141,6 +1197,7 @@ export const lista_origen = [
       "48 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 37 GB",
       "Ahorro actual: S/684 al año"
     ],
     "ahorro_anual": -684
@@ -1152,6 +1209,7 @@ export const lista_origen = [
       "47 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 37 GB",
       "Ahorro actual: S/684 al año"
     ],
     "ahorro_anual": -684
@@ -1163,6 +1221,7 @@ export const lista_origen = [
       "65 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming: 2.5 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/720 al año"
     ],
     "ahorro_anual": -720
@@ -1174,6 +1233,7 @@ export const lista_origen = [
       "75 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 2.5 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/900 al año"
     ],
     "ahorro_anual": -900
@@ -1196,6 +1256,7 @@ export const lista_origen = [
       "75 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 2.5 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/900 al año"
     ],
     "ahorro_anual": -900
@@ -1207,6 +1268,7 @@ export const lista_origen = [
       "76 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/900 al año"
     ],
     "ahorro_anual": -900
@@ -1218,6 +1280,7 @@ export const lista_origen = [
       "76 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/900 al año"
     ],
     "ahorro_anual": -900
@@ -1229,6 +1292,7 @@ export const lista_origen = [
       "85 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/1044 al año"
     ],
     "ahorro_anual": -1044
@@ -1239,6 +1303,7 @@ export const lista_origen = [
     "lista_beneficios": [
       "60 GB en AV + ilim",
       "Roaming: no tiene",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/1044 al año"
     ],
     "ahorro_anual": -1044
@@ -1250,6 +1315,7 @@ export const lista_origen = [
       "85 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/1044 al año"
     ],
     "ahorro_anual": -1044
@@ -1261,6 +1327,7 @@ export const lista_origen = [
       "85 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/1044 al año"
     ],
     "ahorro_anual": -1044
@@ -1269,9 +1336,10 @@ export const lista_origen = [
     "q_linea": 4,
     "origen_nombre": "Entel Power 69.90 C",
     "lista_beneficios": [
-      "100 GB en AV",
+      "Ilimitado 100 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming:  3.5 GB",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/1260 al año"
     ],
     "ahorro_anual": -1260
@@ -1283,6 +1351,7 @@ export const lista_origen = [
       "120 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3.5 GB",
+      "Bono recompensa: 40 GB",
       "Ahorro actual: S/1440 al año"
     ],
     "ahorro_anual": -1440
@@ -1305,6 +1374,7 @@ export const lista_origen = [
       "130 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3.5 GB",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/1620 al año"
     ],
     "ahorro_anual": -1620
@@ -1315,6 +1385,7 @@ export const lista_origen = [
     "lista_beneficios": [
       "110 GB en AV + ilim",
       "Roaming: no tiene",
+      "Bono recompensa: 70 GB",
       "Ahorro actual: S/1620 al año"
     ],
     "ahorro_anual": -1620
@@ -1326,6 +1397,7 @@ export const lista_origen = [
       "130 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3.5 GB",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/1620 al año"
     ],
     "ahorro_anual": -1620
@@ -1504,8 +1576,9 @@ export const lista_origen = [
     "q_linea": 4,
     "origen_nombre": "Entel Power Familiar 159.90",
     "lista_beneficios": [
-      "Ilimitado con 160 GB en AV",
+      "Ilimitado con 161 GB en AV",
       "Roaming: 13 GB Zona Entel",
+      "Bono recompensa: 59 GB",
       "Ahorro actual: S/4500 al año"
     ],
     "ahorro_anual": -4500
@@ -1568,6 +1641,7 @@ export const lista_origen = [
       "26 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 19 GB",
       "Ahorro actual: S/240 al año"
     ],
     "ahorro_anual": -240
@@ -1579,6 +1653,7 @@ export const lista_origen = [
       "26 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 19 GB",
       "Ahorro actual: S/240 al año"
     ],
     "ahorro_anual": -240
@@ -1590,6 +1665,7 @@ export const lista_origen = [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 15 GB",
       "Ahorro actual: S/384 al año"
     ],
     "ahorro_anual": -384
@@ -1601,6 +1677,7 @@ export const lista_origen = [
       "34 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 15 GB",
       "Ahorro actual: S/384 al año"
     ],
     "ahorro_anual": -384
@@ -1612,6 +1689,7 @@ export const lista_origen = [
       "35 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 17 GB",
       "Ahorro actual: S/480 al año"
     ],
     "ahorro_anual": -480
@@ -1623,6 +1701,7 @@ export const lista_origen = [
       "36 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 29 GB",
       "Ahorro actual: S/720 al año"
     ],
     "ahorro_anual": -720
@@ -1634,6 +1713,7 @@ export const lista_origen = [
       "36 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 29 GB",
       "Ahorro actual: S/720 al año"
     ],
     "ahorro_anual": -720
@@ -1656,6 +1736,7 @@ export const lista_origen = [
       "48 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 37 GB",
       "Ahorro actual: S/912 al año"
     ],
     "ahorro_anual": -912
@@ -1667,6 +1748,7 @@ export const lista_origen = [
       "47 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene",
+      "Bono recompensa: 37 GB",
       "Ahorro actual: S/912 al año"
     ],
     "ahorro_anual": -912
@@ -1678,6 +1760,7 @@ export const lista_origen = [
       "65 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming: 2.5 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/960 al año"
     ],
     "ahorro_anual": -960
@@ -1689,6 +1772,7 @@ export const lista_origen = [
       "75 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 2.5 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/1200 al año"
     ],
     "ahorro_anual": -1200
@@ -1711,6 +1795,7 @@ export const lista_origen = [
       "75 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 2.5 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/1200 al año"
     ],
     "ahorro_anual": -1200
@@ -1722,6 +1807,7 @@ export const lista_origen = [
       "76 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/1200 al año"
     ],
     "ahorro_anual": -1200
@@ -1733,6 +1819,7 @@ export const lista_origen = [
       "76 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 24 GB",
       "Ahorro actual: S/1200 al año"
     ],
     "ahorro_anual": -1200
@@ -1744,6 +1831,7 @@ export const lista_origen = [
       "85 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/1392 al año"
     ],
     "ahorro_anual": -1392
@@ -1754,6 +1842,7 @@ export const lista_origen = [
     "lista_beneficios": [
       "60 GB en AV + ilim",
       "Roaming: no tiene",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/1392 al año"
     ],
     "ahorro_anual": -1392
@@ -1765,6 +1854,7 @@ export const lista_origen = [
       "85 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/1392 al año"
     ],
     "ahorro_anual": -1392
@@ -1776,6 +1866,7 @@ export const lista_origen = [
       "85 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3 GB",
+      "Bono recompensa: 25 GB",
       "Ahorro actual: S/1392 al año"
     ],
     "ahorro_anual": -1392
@@ -1784,9 +1875,10 @@ export const lista_origen = [
     "q_linea": 5,
     "origen_nombre": "Entel Power 69.90 C",
     "lista_beneficios": [
-      "100 GB en AV",
+      "Ilimitado 100 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
       "Roaming:  3.5 GB",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/1680 al año"
     ],
     "ahorro_anual": -1680
@@ -1798,6 +1890,7 @@ export const lista_origen = [
       "120 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3.5 GB",
+      "Bono recompensa: 40 GB",
       "Ahorro actual: S/480 al año"
     ],
     "ahorro_anual": -480
@@ -1820,6 +1913,7 @@ export const lista_origen = [
       "130 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3.5 GB",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/2160 al año"
     ],
     "ahorro_anual": -2160
@@ -1830,6 +1924,7 @@ export const lista_origen = [
     "lista_beneficios": [
       "110 GB en AV + ilim",
       "Roaming: no tiene",
+      "Bono recompensa: 70 GB",
       "Ahorro actual: S/2160 al año"
     ],
     "ahorro_anual": -2160
@@ -1841,6 +1936,7 @@ export const lista_origen = [
       "130 GB en AV",
       "Whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Roaming: 3.5 GB",
+      "Bono recompensa: 50 GB",
       "Ahorro actual: S/2160 al año"
     ],
     "ahorro_anual": -2160
@@ -2019,8 +2115,9 @@ export const lista_origen = [
     "q_linea": 5,
     "origen_nombre": "Entel Power Familiar 159.90",
     "lista_beneficios": [
-      "Ilimitado con 160 GB en AV",
+      "Ilimitado con 161 GB en AV",
       "Roaming: 13 GB Zona Entel",
+      "Bono recompensa: 59 GB",
       "Ahorro actual: S/6000 al año"
     ],
     "ahorro_anual": -6000
@@ -2113,7 +2210,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 11 GB en AV"
+      "Pierde 11 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 69.8,
     "total_mes_con_plan_familia": "-",
@@ -2130,7 +2228,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 16 GB en AV"
+      "Pierde 16 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -2147,7 +2246,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 11 GB en AV"
+      "Pierde 11 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 69.8,
     "total_mes_con_plan_familia": "-",
@@ -2164,7 +2264,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 16 GB en AV"
+      "Pierde 16 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -2172,6 +2273,24 @@ export const lista_opciones = [
   },
   {
     "opcion_id": 1,
+    "opcion_nombre": "Entel power familiar 39.90 C",
+    "q_linea": 2,
+    "origen_nombre": "Entel power familiar+ 42.90 N",
+    "lista_beneficios": [
+      "26 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_cambios": [
+      "Pierde 9 GB en AV",
+      "Pierde 15 GB recompensa"
+    ],
+    "total_mes_sin_plan_familia": 79.8,
+    "total_mes_con_plan_familia": 74.8,
+    "ahorro_anual": 60
+  },
+  {
+    "opcion_id": 2,
     "opcion_nombre": "Entel Power 34.90 C",
     "q_linea": 2,
     "origen_nombre": "Entel power familiar+ 42.90 N",
@@ -2181,24 +2300,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 20 GB en AV"
-    ],
-    "total_mes_sin_plan_familia": 69.8,
-    "total_mes_con_plan_familia": "-",
-    "ahorro_anual": "-"
-  },
-  {
-    "opcion_id": 2,
-    "opcion_nombre": "Entel chip 29.90 C",
-    "q_linea": 2,
-    "origen_nombre": "Entel power familiar+ 42.90 N",
-    "lista_beneficios": [
-      "10 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_cambios": [
-      "Pierde 25 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 15 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -2206,6 +2309,24 @@ export const lista_opciones = [
   },
   {
     "opcion_id": 1,
+    "opcion_nombre": "Entel power familiar 39.90 C",
+    "q_linea": 2,
+    "origen_nombre": "Entel power familiar+ 42.90",
+    "lista_beneficios": [
+      "26 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_cambios": [
+      "Pierde 8 GB en AV",
+      "Pierde 15 GB recompensa"
+    ],
+    "total_mes_sin_plan_familia": 79.8,
+    "total_mes_con_plan_familia": 74.8,
+    "ahorro_anual": 60
+  },
+  {
+    "opcion_id": 2,
     "opcion_nombre": "Entel Power 34.90 C",
     "q_linea": 2,
     "origen_nombre": "Entel power familiar+ 42.90",
@@ -2215,24 +2336,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 19 GB en AV"
-    ],
-    "total_mes_sin_plan_familia": 69.8,
-    "total_mes_con_plan_familia": "-",
-    "ahorro_anual": "-"
-  },
-  {
-    "opcion_id": 2,
-    "opcion_nombre": "Entel chip 29.90 C",
-    "q_linea": 2,
-    "origen_nombre": "Entel power familiar+ 42.90",
-    "lista_beneficios": [
-      "10 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_cambios": [
-      "Pierde 24 GB en AV"
+      "Pierde 19 GB en AV",
+      "Pierde 15 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -2249,7 +2354,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 9 GB en AV"
+      "Pierde 9 GB en AV",
+      "Pierde 17 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 79.8,
     "total_mes_con_plan_familia": 74.8,
@@ -2266,7 +2372,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 20 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 17 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -2283,7 +2390,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 1 GB en AV"
+      "Pierde 1 GB en AV",
+      "Pierde 29 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 89.8,
     "total_mes_con_plan_familia": 79.8,
@@ -2300,7 +2408,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 29 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 79.8,
     "total_mes_con_plan_familia": 74.8,
@@ -2317,7 +2426,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 1 GB en AV"
+      "Pierde 1 GB en AV",
+      "Pierde 29 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 89.8,
     "total_mes_con_plan_familia": 79.8,
@@ -2334,7 +2444,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 29 GB recompensa)"
     ],
     "total_mes_sin_plan_familia": 79.8,
     "total_mes_con_plan_familia": 74.8,
@@ -2385,7 +2496,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 13 GB en AV"
+      "Pierde 13 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 89.8,
     "total_mes_con_plan_familia": 79.8,
@@ -2402,7 +2514,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 22 GB en AV"
+      "Pierde 22 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 79.8,
     "total_mes_con_plan_familia": 74.8,
@@ -2419,7 +2532,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 12 GB en AV"
+      "Pierde 12 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 89.8,
     "total_mes_con_plan_familia": 79.8,
@@ -2436,7 +2550,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 21 GB en AV"
+      "Pierde 21 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 79.8,
     "total_mes_con_plan_familia": 74.8,
@@ -2454,6 +2569,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 30 GB en AV",
+      "Pierde 25 GB recompensa",
       "Pierde 2.5GB de roaming"
     ],
     "total_mes_sin_plan_familia": 89.8,
@@ -2471,7 +2587,9 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 39 GB en AV"
+      "Pierde 39 GB en AV",
+      "Pierde 25 GB recompensa",
+      "Pierde 2.5 GB de roaming"
     ],
     "total_mes_sin_plan_familia": 79.8,
     "total_mes_con_plan_familia": 74.8,
@@ -2488,7 +2606,8 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 24GB recompensa"
     ],
     "total_mes_sin_plan_familia": 109.8,
     "total_mes_con_plan_familia": 89.8,
@@ -2506,8 +2625,9 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 40 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde spotify, apple music ilimitado",
-      "Pierde Roaming"
+      "Pierde 2.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 89.8,
     "total_mes_con_plan_familia": 79.8,
@@ -2561,7 +2681,8 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 24GB recompensa"
     ],
     "total_mes_sin_plan_familia": 109.8,
     "total_mes_con_plan_familia": 89.8,
@@ -2579,8 +2700,9 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 40 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde spotify, apple music ilimitado,",
-      "Pierde  Roaming"
+      "Pierde 2.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 89.8,
     "total_mes_con_plan_familia": 79.8,
@@ -2598,6 +2720,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 11 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 109.8,
@@ -2616,6 +2739,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 41 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde spotify, apple music ilimitado,",
       "Pierde 3 GB  Roaming"
     ],
@@ -2635,6 +2759,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 11 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 109.8,
@@ -2653,6 +2778,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 41 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde spotify, apple music ilimitado,",
       "Pierde  Roaming"
     ],
@@ -2672,6 +2798,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 20 GB en AV",
+      "Pierde 25 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 109.8,
@@ -2690,6 +2817,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 50 GB en AV",
+      "Pierde 25GB recompensa",
       "Pierde spotify, apple music ilimitado",
       "Pierde Roaming"
     ],
@@ -2708,8 +2836,10 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 35 GB en AV",
-      "Pierde 1 GB Roaming"
+      "Pierde Ilimitado",
+      "Pierde 50 GB recompensa",
+      "Gana 5 GB en AV",
+      "Gana 2.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 109.8,
     "total_mes_con_plan_familia": 89.8,
@@ -2726,8 +2856,9 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 50 GB en AV",
-      "Pierde 3 GB Roaming"
+      "Pierde Ilimitado",
+      "Pierde 25 GB en AV",
+      "Pierde 50 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 89.8,
     "total_mes_con_plan_familia": 79.8,
@@ -2745,6 +2876,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 20 GB en AV",
+      "Pierde 25 GB recompensa",
       "Pierde: 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 109.8,
@@ -2763,6 +2895,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 50 GB en AV",
+      "Pierde 25 GB recompensa",
       "Pierde 3 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 89.8,
@@ -2781,6 +2914,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 20 GB en AV",
+      "Pierde 25 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 109.8,
@@ -2799,6 +2933,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 50 GB en AV",
+      "Pierde 25 GB recompensa",
       "Pierde spotify, apple music ilimitado",
       "Pierde Roaming"
     ],
@@ -2818,6 +2953,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 25 GB en AV",
+      "Pierde 50 GB recompensa",
       "Pierde: 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 127.8,
@@ -2836,6 +2972,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 35 GB en AV",
+      "Pierde 50 GB recompensa",
       "Pierde 1 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 109.8,
@@ -2853,7 +2990,9 @@ export const lista_opciones = [
       "Roaming:  3.5 GB"
     ],
     "lista_cambios": [
-      "Gana ilimitado"
+      "Gana ilimitado",
+      "Pierde 20 GB en AV",
+      "Pierde 40 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 139.8,
     "total_mes_con_plan_familia": 104.8,
@@ -2871,6 +3010,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 35 GB en AV",
+      "Pierde 40 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 127.8,
@@ -2888,7 +3028,9 @@ export const lista_opciones = [
       "Roaming:  3.5 GB"
     ],
     "lista_cambios": [
-      "Gana ilimitado"
+      "Gana ilimitado",
+      "Pierde 20 GB en AV",
+      "Pierde 40 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 139.8,
     "total_mes_con_plan_familia": 104.8,
@@ -2906,6 +3048,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 35 GB en AV",
+      "Pierde 40 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 127.8,
@@ -2923,7 +3066,9 @@ export const lista_opciones = [
       "Roaming:  3.5 GB"
     ],
     "lista_cambios": [
-      "Gana ilimitado"
+      "Gana ilimitado",
+      "Pierde 30GB en AV",
+      "Pierde 50GB recompensa"
     ],
     "total_mes_sin_plan_familia": 139.8,
     "total_mes_con_plan_familia": 104.8,
@@ -2940,7 +3085,8 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 45 GB en AV",
+      "Pierde 45GB en AV",
+      "Pierde 50 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 127.8,
@@ -2958,8 +3104,9 @@ export const lista_opciones = [
       "Roaming:  3.5 GB"
     ],
     "lista_cambios": [
-      "Gana 10 GB en AV",
-      "Gana 3.5  GB Roaming"
+      "Pierde 10 GB en AV",
+      "Pierde 70 GB recompensa",
+      "Gana 3.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 139.8,
     "total_mes_con_plan_familia": 104.8,
@@ -2976,7 +3123,9 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde Ilimitado y 25 GB en AV",
+      "Pierde Ilimitado",
+      "Pierde 25 GB en AV",
+      "Pierde 70 GB recompensa",
       "Gana whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Gana 3 GB Roaming"
     ],
@@ -2995,7 +3144,9 @@ export const lista_opciones = [
       "Roaming:  3.5 GB"
     ],
     "lista_cambios": [
-      "Gana ilimitado"
+      "Gana ilimitado",
+      "Pierde 30GB en AV",
+      "Pierde 50GB recompensa"
     ],
     "total_mes_sin_plan_familia": 139.8,
     "total_mes_con_plan_familia": 104.8,
@@ -3012,7 +3163,8 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 45 GB",
+      "Pierde 45GB en AV",
+      "Pierde 50 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 127.8,
@@ -3596,7 +3748,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado en AV",
-      "Pierde 160 GB en AV",
+      "Pierde bono recompensa",
       "Pierde 1 GB de roaming"
     ],
     "total_mes_sin_plan_familia": 259.8,
@@ -3800,7 +3952,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 11 GB en AV"
+      "Pierde 11 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 104.7,
     "total_mes_con_plan_familia": "-",
@@ -3817,7 +3970,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 16 GB en AV"
+      "Pierde 16 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -3834,7 +3988,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 11 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 104.7,
     "total_mes_con_plan_familia": "-",
@@ -3851,7 +4006,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 16 GB en AV"
+      "Pierde 16 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -3859,6 +4015,24 @@ export const lista_opciones = [
   },
   {
     "opcion_id": 1,
+    "opcion_nombre": "Entel power familiar 39.90 C",
+    "q_linea": 3,
+    "origen_nombre": "Entel power familiar+ 42.90 N",
+    "lista_beneficios": [
+      "26 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_cambios": [
+      "Pierde 9 GB en AV",
+      "Pierde 15 GB recompensa"
+    ],
+    "total_mes_sin_plan_familia": 119.7,
+    "total_mes_con_plan_familia": 109.7,
+    "ahorro_anual": 120
+  },
+  {
+    "opcion_id": 2,
     "opcion_nombre": "Entel Power 34.90 C",
     "q_linea": 3,
     "origen_nombre": "Entel power familiar+ 42.90 N",
@@ -3868,24 +4042,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 20 GB en AV"
-    ],
-    "total_mes_sin_plan_familia": 104.7,
-    "total_mes_con_plan_familia": "-",
-    "ahorro_anual": "-"
-  },
-  {
-    "opcion_id": 2,
-    "opcion_nombre": "Entel chip 29.90 C",
-    "q_linea": 3,
-    "origen_nombre": "Entel power familiar+ 42.90 N",
-    "lista_beneficios": [
-      "10 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_cambios": [
-      "Pierde 25 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 15 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -3893,6 +4051,24 @@ export const lista_opciones = [
   },
   {
     "opcion_id": 1,
+    "opcion_nombre": "Entel power familiar 39.90 C",
+    "q_linea": 3,
+    "origen_nombre": "Entel power familiar+ 42.90",
+    "lista_beneficios": [
+      "26 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_cambios": [
+      "Pierde 8 GB en AV",
+      "Pierde 15 GB recompensa"
+    ],
+    "total_mes_sin_plan_familia": 119.7,
+    "total_mes_con_plan_familia": 109.7,
+    "ahorro_anual": 120
+  },
+  {
+    "opcion_id": 2,
     "opcion_nombre": "Entel Power 34.90 C",
     "q_linea": 3,
     "origen_nombre": "Entel power familiar+ 42.90",
@@ -3902,24 +4078,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 19 GB"
-    ],
-    "total_mes_sin_plan_familia": 104.7,
-    "total_mes_con_plan_familia": "-",
-    "ahorro_anual": "-"
-  },
-  {
-    "opcion_id": 2,
-    "opcion_nombre": "Entel chip 29.90 C",
-    "q_linea": 3,
-    "origen_nombre": "Entel power familiar+ 42.90",
-    "lista_beneficios": [
-      "10 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_cambios": [
-      "Pierde 24 GB en AV"
+      "Pierde 19 GB en AV",
+      "Pierde 15 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -3936,7 +4096,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 9 GB en AV"
+      "Pierde 9 GB en AV",
+      "Pierde 17 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 119.7,
     "total_mes_con_plan_familia": 109.7,
@@ -3953,7 +4114,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 20 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 17 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -3970,7 +4132,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 1 GB en AV"
+      "Pierde 1 GB en AV",
+      "Pierde 29 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 134.7,
     "total_mes_con_plan_familia": 114.7,
@@ -3987,7 +4150,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 29 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 119.7,
     "total_mes_con_plan_familia": 109.7,
@@ -4021,7 +4185,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 29 GB recompensa)"
     ],
     "total_mes_sin_plan_familia": 119.7,
     "total_mes_con_plan_familia": 109.7,
@@ -4072,7 +4237,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 13 GB en AV"
+      "Pierde 13 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 134.7,
     "total_mes_con_plan_familia": 114.7,
@@ -4089,7 +4255,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 22 GB en AV"
+      "Pierde 22 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 119.7,
     "total_mes_con_plan_familia": 109.7,
@@ -4106,7 +4273,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 12 GB"
+      "Pierde 12 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 134.7,
     "total_mes_con_plan_familia": 114.7,
@@ -4123,7 +4291,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 21 GB en AV"
+      "Pierde 21 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 119.7,
     "total_mes_con_plan_familia": 109.7,
@@ -4140,8 +4309,9 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 30 GB",
-      "Pierde 2.5 GB de roaming"
+      "Pierde 30 GB en AV",
+      "Pierde 25 GB recompensa",
+      "Pierde 2.5GB de roaming"
     ],
     "total_mes_sin_plan_familia": 134.7,
     "total_mes_con_plan_familia": 114.7,
@@ -4159,6 +4329,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 39 GB en AV",
+      "Pierde 25 GB recompensa",
       "Pierde 2.5 GB de roaming"
     ],
     "total_mes_sin_plan_familia": 119.7,
@@ -4176,7 +4347,8 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 10 GB"
+      "Pierde 10 GB en AV",
+      "Pierde 24GB recompensa"
     ],
     "total_mes_sin_plan_familia": 164.7,
     "total_mes_con_plan_familia": 124.7,
@@ -4194,6 +4366,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 40 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde spotify, apple music ilimitado",
       "Pierde 2.5 GB Roaming"
     ],
@@ -4247,7 +4420,8 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 10 GB"
+      "Pierde 10 GB en AV",
+      "Pierde 24GB recompensa"
     ],
     "total_mes_sin_plan_familia": 164.7,
     "total_mes_con_plan_familia": 124.7,
@@ -4265,7 +4439,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 40 GB en AV",
-      "Pierde spotify, apple music ilimitado",
+      "Pierde 24 GB recompensa",
+      "Pierde spotify, apple music ilimitado,",
       "Pierde 2.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 134.7,
@@ -4284,6 +4459,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 11 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 164.7,
@@ -4302,6 +4478,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 41 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde spotify, apple music ilimitado,",
       "Pierde 3 GB  Roaming"
     ],
@@ -4320,7 +4497,8 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 11 GB",
+      "Pierde 11 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 164.7,
@@ -4339,8 +4517,9 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 41 GB en AV",
-      "Pierde spotify, apple music ilimitado",
-      "Pierde 3 GB Roaming"
+      "Pierde 24 GB recompensa",
+      "Pierde spotify, apple music ilimitado,",
+      "Pierde  Roaming"
     ],
     "total_mes_sin_plan_familia": 134.7,
     "total_mes_con_plan_familia": 114.7,
@@ -4357,8 +4536,9 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 20GB",
-      "Pierde 0.5 GB de roaming"
+      "Pierde 20 GB en AV",
+      "Pierde 25 GB recompensa",
+      "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 164.7,
     "total_mes_con_plan_familia": 124.7,
@@ -4376,8 +4556,9 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 50 GB en AV",
+      "Pierde 25GB recompensa",
       "Pierde spotify, apple music ilimitado",
-      "Pierde 3 GB Roaming"
+      "Pierde Roaming"
     ],
     "total_mes_sin_plan_familia": 134.7,
     "total_mes_con_plan_familia": 114.7,
@@ -4395,6 +4576,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde Ilimitado",
+      "Pierde bono recompensa",
       "Gana 5 GB en AV",
       "Gana 2.5 GB Roaming"
     ],
@@ -4413,7 +4595,9 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 25 GB en AV"
+      "Pierde Ilimitado",
+      "Pierde 25 GB en AV",
+      "Pierde 50 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 134.7,
     "total_mes_con_plan_familia": 114.7,
@@ -4431,7 +4615,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 20 GB en AV",
-      "Pierde 0.5 GB Roaming"
+      "Pierde 25 GB recompensa",
+      "Pierde: 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 164.7,
     "total_mes_con_plan_familia": 124.7,
@@ -4448,8 +4633,9 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 30 GB",
-      "Pierde 2.5 GB Roaming"
+      "Pierde 50 GB en AV",
+      "Pierde 25 GB recompensa",
+      "Pierde 3 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 134.7,
     "total_mes_con_plan_familia": 114.7,
@@ -4467,6 +4653,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 20 GB en AV",
+      "Pierde 25 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 164.7,
@@ -4484,8 +4671,10 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 30 GB",
-      "Pierde 2.5 GB Roaming"
+      "Pierde 50 GB en AV",
+      "Pierde 25 GB recompensa",
+      "Pierde spotify, apple music ilimitado",
+      "Pierde Roaming"
     ],
     "total_mes_sin_plan_familia": 134.7,
     "total_mes_con_plan_familia": 114.7,
@@ -4503,7 +4692,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 25 GB en AV",
-      "Pierde 0.5 GB Roaming"
+      "Pierde 50 GB recompensa",
+      "Pierde: 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 191.7,
     "total_mes_con_plan_familia": 133.7,
@@ -4520,7 +4710,8 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 35 GB",
+      "Pierde 35 GB en AV",
+      "Pierde 50 GB recompensa",
       "Pierde 1 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 164.7,
@@ -4539,7 +4730,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado",
-      "Pierde 20 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 40 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 209.7,
     "total_mes_con_plan_familia": 139.7,
@@ -4556,7 +4748,8 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 35 GB",
+      "Pierde 35 GB en AV",
+      "Pierde 40 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 191.7,
@@ -4575,7 +4768,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado",
-      "Pierde 20 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 40 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 209.7,
     "total_mes_con_plan_familia": 139.7,
@@ -4592,7 +4786,8 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 35 GB",
+      "Pierde 35 GB en AV",
+      "Pierde 40 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 191.7,
@@ -4611,7 +4806,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado",
-      "Pierde 30 GB en AV"
+      "Pierde 30GB en AV",
+      "Pierde 50GB recompensa"
     ],
     "total_mes_sin_plan_familia": 209.7,
     "total_mes_con_plan_familia": 139.7,
@@ -4628,7 +4824,8 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 45 GB en AV",
+      "Pierde 45GB en AV",
+      "Pierde 50 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 191.7,
@@ -4646,7 +4843,8 @@ export const lista_opciones = [
       "Roaming:  3.5 GB"
     ],
     "lista_cambios": [
-      "Gana Ilimitado y 10 GB en AV",
+      "Pierde 10 GB en AV",
+      "Pierde 70 GB recompensa",
       "Gana 3.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 209.7,
@@ -4664,7 +4862,9 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde Ilimitado y 25 GB en AV",
+      "Pierde Ilimitado",
+      "Pierde 25 GB en AV",
+      "Pierde 70 GB recompensa",
       "Gana whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Gana 3 GB Roaming"
     ],
@@ -4684,7 +4884,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado",
-      "Pierde 30GB en AV"
+      "Pierde30 GB en AV",
+      "Pierde 50 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 209.7,
     "total_mes_con_plan_familia": 139.7,
@@ -4701,7 +4902,8 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 45 GB en AV",
+      "Pierde 45GB en AV",
+      "Pierde 50 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 191.7,
@@ -5288,6 +5490,8 @@ export const lista_opciones = [
       "Roaming: 12 GB"
     ],
     "lista_cambios": [
+      "Gana ilimitado en AV",
+      "Pierde bono recompensa",
       "Pierde 1 GB de roaming"
     ],
     "total_mes_sin_plan_familia": 389.7,
@@ -5488,7 +5692,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 11 GB en AV"
+      "Pierde 11 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 139.6,
     "total_mes_con_plan_familia": "-",
@@ -5505,7 +5710,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 16 GB en AV"
+      "Pierde 16 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -5522,7 +5728,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 11 GB en AV"
+      "Pierde 11 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 139.6,
     "total_mes_con_plan_familia": "-",
@@ -5539,7 +5746,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 16 GB en AV"
+      "Pierde 16 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -5556,7 +5764,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 9 GB en AV"
+      "Pierde 9 GB en AV",
+      "Pierde 15 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 159.6,
     "total_mes_con_plan_familia": 144.6,
@@ -5573,7 +5782,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 20 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 15 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -5590,7 +5800,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 8 GB en AV"
+      "Pierde 8 GB en AV",
+      "Pierde 15 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 159.6,
     "total_mes_con_plan_familia": 144.6,
@@ -5607,7 +5818,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 19 GB en AV"
+      "Pierde 19 GB en AV",
+      "Pierde 15 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -5624,7 +5836,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 9 GB en AV"
+      "Pierde 9 GB en AV",
+      "Pierde 17 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 159.6,
     "total_mes_con_plan_familia": 144.6,
@@ -5641,7 +5854,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 20 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 17 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 139.6,
     "total_mes_con_plan_familia": 139.6,
@@ -5658,7 +5872,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 1 GB en AV"
+      "Pierde 1 GB en AV",
+      "Pierde 29 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 179.6,
     "total_mes_con_plan_familia": 149.6,
@@ -5675,7 +5890,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 29 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 159.6,
     "total_mes_con_plan_familia": 144.6,
@@ -5709,7 +5925,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 29 GB recompensa)"
     ],
     "total_mes_sin_plan_familia": 159.6,
     "total_mes_con_plan_familia": 144.6,
@@ -5760,7 +5977,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 13 GB en AV"
+      "Pierde 13 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 179.6,
     "total_mes_con_plan_familia": 149.6,
@@ -5777,7 +5995,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 22 GB en AV"
+      "Pierde 22 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 159.6,
     "total_mes_con_plan_familia": 144.6,
@@ -5794,7 +6013,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 12 GB en AV"
+      "Pierde 12 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 179.6,
     "total_mes_con_plan_familia": 149.6,
@@ -5811,7 +6031,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 21 GB en AV"
+      "Pierde 21 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 159.6,
     "total_mes_con_plan_familia": 144.6,
@@ -5829,7 +6050,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 30 GB en AV",
-      "Pierde 2.5 GB de roaming"
+      "Pierde 25 GB recompensa",
+      "Pierde 2.5GB de roaming"
     ],
     "total_mes_sin_plan_familia": 179.6,
     "total_mes_con_plan_familia": 149.6,
@@ -5847,7 +6069,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 39 GB en AV",
-      "Pierde 2.5 GB Roaming"
+      "Pierde 25 GB recompensa",
+      "Pierde 2.5 GB de roaming"
     ],
     "total_mes_sin_plan_familia": 159.6,
     "total_mes_con_plan_familia": 144.6,
@@ -5864,7 +6087,8 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 24GB recompensa"
     ],
     "total_mes_sin_plan_familia": 219.6,
     "total_mes_con_plan_familia": 159.6,
@@ -5882,6 +6106,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 40 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde spotify, apple music ilimitado",
       "Pierde 2.5 GB Roaming"
     ],
@@ -5936,7 +6161,8 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 24GB recompensa"
     ],
     "total_mes_sin_plan_familia": 219.6,
     "total_mes_con_plan_familia": 159.6,
@@ -5954,7 +6180,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 40 GB en AV",
-      "Pierde spotify, apple music ilimitado",
+      "Pierde 24 GB recompensa",
+      "Pierde spotify, apple music ilimitado,",
       "Pierde 2.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 179.6,
@@ -5973,6 +6200,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 11 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 219.6,
@@ -5991,6 +6219,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 41 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde spotify, apple music ilimitado,",
       "Pierde 3 GB  Roaming"
     ],
@@ -6010,7 +6239,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 11 GB en AV",
-      "Pierde 0.5 GB de roaming"
+      "Pierde 24 GB recompensa",
+      "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 219.6,
     "total_mes_con_plan_familia": 159.6,
@@ -6028,8 +6258,9 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 41 GB en AV",
-      "Pierde spotify, apple music ilimitad",
-      "Pierde 3 GB Roaming"
+      "Pierde 24 GB recompensa",
+      "Pierde spotify, apple music ilimitado,",
+      "Pierde  Roaming"
     ],
     "total_mes_sin_plan_familia": 179.6,
     "total_mes_con_plan_familia": 149.6,
@@ -6046,8 +6277,9 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 20GB en AV",
-      "Pierde 0.5 GB de roaming"
+      "Pierde 20 GB en AV",
+      "Pierde 25 GB recompensa",
+      "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 219.6,
     "total_mes_con_plan_familia": 159.6,
@@ -6065,8 +6297,9 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 50 GB en AV",
-      "Pierde spotify, apple music ilimitad",
-      "Pierde 3 GB Roaming"
+      "Pierde 25GB recompensa",
+      "Pierde spotify, apple music ilimitado",
+      "Pierde Roaming"
     ],
     "total_mes_sin_plan_familia": 179.6,
     "total_mes_con_plan_familia": 149.6,
@@ -6084,8 +6317,9 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde Ilimitado",
+      "Pierde bono recompensa",
       "Gana 5 GB en AV",
-      "Gana 2.5GB de roaming"
+      "Gana 2.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 219.6,
     "total_mes_con_plan_familia": 159.6,
@@ -6102,8 +6336,9 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde GB Ilimitados",
-      "Pierde 25 GB en Alta Velocidad"
+      "Pierde Ilimitado",
+      "Pierde 25 GB en AV",
+      "Pierde 50 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 179.6,
     "total_mes_con_plan_familia": 149.6,
@@ -6114,42 +6349,6 @@ export const lista_opciones = [
     "opcion_nombre": "Entel Power 54.90 C",
     "q_linea": 4,
     "origen_nombre": "Entel power familiar+ 63.90",
-    "lista_beneficios": [
-      "65 GB en AV",
-      "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
-      "Roaming: 2.5 GB"
-    ],
-    "lista_cambios": [
-      "Pierde 20GB en AV",
-      "Piere 0.5 GB de roaming"
-    ],
-    "total_mes_sin_plan_familia": 219.6,
-    "total_mes_con_plan_familia": 159.6,
-    "ahorro_anual": 720
-  },
-  {
-    "opcion_id": 2,
-    "opcion_nombre": "Entel Power 44.90 C",
-    "q_linea": 4,
-    "origen_nombre": "Entel power familiar+ 63.90",
-    "lista_beneficios": [
-      "35 GB en AV",
-      "Whatsapp y waze ilimitado , FB e IG fotos",
-      "Roaming: no tiene"
-    ],
-    "lista_cambios": [
-      "Pierde 50 GB en AV",
-      "Pierde 3 GB Roaming"
-    ],
-    "total_mes_sin_plan_familia": 179.6,
-    "total_mes_con_plan_familia": 149.6,
-    "ahorro_anual": 360
-  },
-  {
-    "opcion_id": 1,
-    "opcion_nombre": "Entel Power 54.90 C",
-    "q_linea": 4,
-    "origen_nombre": "Entel power familiar 63.90 C",
     "lista_beneficios": [
       "65 GB en AV",
       "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
@@ -6157,6 +6356,45 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 20 GB en AV",
+      "Pierde 25 GB recompensa",
+      "Pierde: 0.5 GB Roaming"
+    ],
+    "total_mes_sin_plan_familia": 219.6,
+    "total_mes_con_plan_familia": 159.6,
+    "ahorro_anual": 720
+  },
+  {
+    "opcion_id": 2,
+    "opcion_nombre": "Entel Power 44.90 C",
+    "q_linea": 4,
+    "origen_nombre": "Entel power familiar+ 63.90",
+    "lista_beneficios": [
+      "35 GB en AV",
+      "Whatsapp y waze ilimitado , FB e IG fotos",
+      "Roaming: no tiene"
+    ],
+    "lista_cambios": [
+      "Pierde 50 GB en AV",
+      "Pierde 25 GB recompensa",
+      "Pierde 3 GB Roaming"
+    ],
+    "total_mes_sin_plan_familia": 179.6,
+    "total_mes_con_plan_familia": 149.6,
+    "ahorro_anual": 360
+  },
+  {
+    "opcion_id": 1,
+    "opcion_nombre": "Entel Power 54.90 C",
+    "q_linea": 4,
+    "origen_nombre": "Entel power familiar 63.90 C",
+    "lista_beneficios": [
+      "65 GB en AV",
+      "Whatsapp, waze, spotify y apple music ilimitado. FB e IG FULL",
+      "Roaming: 2.5 GB"
+    ],
+    "lista_cambios": [
+      "Pierde 20GB en AV",
+      "Pierde 25 GB recompensa",
       "Piere 0.5 GB de roaming"
     ],
     "total_mes_sin_plan_familia": 219.6,
@@ -6175,7 +6413,9 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 50 GB en AV",
-      "Pierde 3 GB Roaming"
+      "Pierde 25 GB recompensa",
+      "Pierde spotify, apple music ilimitado",
+      "Pierde Roaming"
     ],
     "total_mes_sin_plan_familia": 179.6,
     "total_mes_con_plan_familia": 149.6,
@@ -6192,8 +6432,9 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 15 B en AV",
-      "Pierde 0.5 GB de roaming"
+      "Pierde 25 GB en AV",
+      "Pierde 50 GB recompensa",
+      "Pierde: 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 255.6,
     "total_mes_con_plan_familia": 168.6,
@@ -6211,7 +6452,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 35 GB en AV",
-      "Pierde 1GB de roamig"
+      "Pierde 50 GB recompensa",
+      "Pierde 1 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 219.6,
     "total_mes_con_plan_familia": 159.6,
@@ -6229,7 +6471,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado",
-      "Pierde 20 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 40 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 279.6,
     "total_mes_con_plan_familia": 174.6,
@@ -6247,6 +6490,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 35 GB en AV",
+      "Pierde 40 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 255.6,
@@ -6265,7 +6509,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado",
-      "Pierde 20 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 40 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 279.6,
     "total_mes_con_plan_familia": 174.6,
@@ -6283,6 +6528,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 35 GB en AV",
+      "Pierde 40 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 255.6,
@@ -6301,7 +6547,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado",
-      "Pierde 30 GB en AV"
+      "Pierde 30GB en AV",
+      "Pierde 50 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 279.6,
     "total_mes_con_plan_familia": 174.6,
@@ -6318,7 +6565,8 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 45 GB en AV",
+      "Pierde 45GB en AV",
+      "Pierde 50 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 255.6,
@@ -6336,7 +6584,8 @@ export const lista_opciones = [
       "Roaming:  3.5 GB"
     ],
     "lista_cambios": [
-      "Pierde Ilimitado y 10 GB en AV",
+      "Pierde 10 GB en AV",
+      "Pierde 70 GB recompensa",
       "Gana 3.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 279.6,
@@ -6354,7 +6603,9 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde Ilimitado y 25 GB en AV",
+      "Pierde Ilimitado",
+      "Pierde 25 GB en AV",
+      "Pierde 70 GB recompensa",
       "Gana whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Gana 3 GB Roaming"
     ],
@@ -6374,7 +6625,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado",
-      "Pierde 30 GB en AV"
+      "Pierde 30 GB en AV",
+      "Pierde 50 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 279.6,
     "total_mes_con_plan_familia": 174.6,
@@ -6391,7 +6643,8 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 45 GB",
+      "Pierde 45GB en AV",
+      "Pierde 50 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 255.6,
@@ -6978,6 +7231,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado en AV",
+      "Pierde bono recompensa",
       "Pierde 1 GB de roaming"
     ],
     "total_mes_sin_plan_familia": 519.6,
@@ -7182,7 +7436,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 11 GB en AV"
+      "Pierde 11 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 174.5,
     "total_mes_con_plan_familia": "-",
@@ -7199,7 +7454,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 16 GB en AV"
+      "Pierde 16 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -7216,7 +7472,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 11 GB en AV"
+      "Pierde 11 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 174.5,
     "total_mes_con_plan_familia": "-",
@@ -7233,7 +7490,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 16 GB en AV"
+      "Pierde 16 GB en AV",
+      "Pierde 19 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -7250,7 +7508,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 9 GB en AV"
+      "Pierde 9 GB en AV",
+      "Pierde 15 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 199.5,
     "total_mes_con_plan_familia": 179.5,
@@ -7267,7 +7526,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 20 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 15 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -7284,7 +7544,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 8 GB en AV"
+      "Pierde 8 GB en AV",
+      "Pierde 15 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 199.5,
     "total_mes_con_plan_familia": 179.5,
@@ -7301,7 +7562,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 19 GB en AV"
+      "Pierde 19 GB en AV",
+      "Pierde 15 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -7318,7 +7580,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 9 GB en AV"
+      "Pierde 9 GB en AV",
+      "Pierde 17 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 199.5,
     "total_mes_con_plan_familia": 179.5,
@@ -7335,7 +7598,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 20 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 17 GB recompensa"
     ],
     "total_mes_sin_plan_familia": "-",
     "total_mes_con_plan_familia": "-",
@@ -7352,7 +7616,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 1 GB en AV"
+      "Pierde 1 GB en AV",
+      "Pierde 29 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 224.5,
     "total_mes_con_plan_familia": 184.5,
@@ -7369,7 +7634,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 29 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 199.5,
     "total_mes_con_plan_familia": 179.5,
@@ -7403,7 +7669,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 29 GB recompensa)"
     ],
     "total_mes_sin_plan_familia": 199.5,
     "total_mes_con_plan_familia": 179.5,
@@ -7454,7 +7721,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 13 GB en AV"
+      "Pierde 13 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 224.5,
     "total_mes_con_plan_familia": 184.5,
@@ -7471,7 +7739,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 22 GB en AV"
+      "Pierde 22 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 199.5,
     "total_mes_con_plan_familia": 179.5,
@@ -7488,7 +7757,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 12 GB en AV"
+      "Pierde 12 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 224.5,
     "total_mes_con_plan_familia": 184.5,
@@ -7505,7 +7775,8 @@ export const lista_opciones = [
       "Roaming: no tiene"
     ],
     "lista_cambios": [
-      "Pierde 21 GB en AV"
+      "Pierde 21 GB en AV",
+      "Pierde 37 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 199.5,
     "total_mes_con_plan_familia": 179.5,
@@ -7523,7 +7794,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 30 GB en AV",
-      "Pierde 2.5 GB de roaming"
+      "Pierde 25 GB recompensa",
+      "Pierde 2.5GB de roaming"
     ],
     "total_mes_sin_plan_familia": 224.5,
     "total_mes_con_plan_familia": 184.5,
@@ -7541,6 +7813,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 39 GB en AV",
+      "Pierde 25 GB recompensa",
       "Pierde 2.5 GB de roaming"
     ],
     "total_mes_sin_plan_familia": 199.5,
@@ -7558,7 +7831,8 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 24GB recompensa"
     ],
     "total_mes_sin_plan_familia": 274.5,
     "total_mes_con_plan_familia": 194.5,
@@ -7576,6 +7850,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 40 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde spotify, apple music ilimitado",
       "Pierde 2.5 GB Roaming"
     ],
@@ -7630,7 +7905,8 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 10 GB en AV"
+      "Pierde 10 GB en AV",
+      "Pierde 24GB recompensa"
     ],
     "total_mes_sin_plan_familia": 274.5,
     "total_mes_con_plan_familia": 194.5,
@@ -7648,7 +7924,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 40 GB en AV",
-      "Pierde spotify, apple music ilimitado",
+      "Pierde 24 GB recompensa",
+      "Pierde spotify, apple music ilimitado,",
       "Pierde 2.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 224.5,
@@ -7667,6 +7944,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 11 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 274.5,
@@ -7685,6 +7963,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 41 GB en AV",
+      "Pierde 24 GB recompensa",
       "Pierde spotify, apple music ilimitado,",
       "Pierde 3 GB  Roaming"
     ],
@@ -7704,7 +7983,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 11 GB en AV",
-      "Pierde 0.5  GB Roaming"
+      "Pierde 24 GB recompensa",
+      "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 274.5,
     "total_mes_con_plan_familia": 194.5,
@@ -7722,8 +8002,9 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 41 GB en AV",
-      "Pierde spotify, apple music ilimitado",
-      "Pierde 3 GB Roaming"
+      "Pierde 24 GB recompensa",
+      "Pierde spotify, apple music ilimitado,",
+      "Pierde  Roaming"
     ],
     "total_mes_sin_plan_familia": 224.5,
     "total_mes_con_plan_familia": 184.5,
@@ -7741,7 +8022,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 20 GB en AV",
-      "Pierde 0.5 GB de roaming"
+      "Pierde 25 GB recompensa",
+      "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 274.5,
     "total_mes_con_plan_familia": 194.5,
@@ -7759,8 +8041,9 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 50 GB en AV",
+      "Pierde 25GB recompensa",
       "Pierde spotify, apple music ilimitado",
-      "Pierde 3 GB Roaming"
+      "Pierde Roaming"
     ],
     "total_mes_sin_plan_familia": 224.5,
     "total_mes_con_plan_familia": 184.5,
@@ -7778,8 +8061,9 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde Ilimitado",
+      "Pierde bono recompensa",
       "Gana 5 GB en AV",
-      "Gana 2.5 GB de roaming"
+      "Gana 2.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 274.5,
     "total_mes_con_plan_familia": 194.5,
@@ -7797,7 +8081,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde Ilimitado",
-      "Pierde 30 GB en Alta Velocidad"
+      "Pierde 25 GB en AV",
+      "Pierde 50 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 224.5,
     "total_mes_con_plan_familia": 184.5,
@@ -7815,7 +8100,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 20 GB en AV",
-      "Pierde 0.5 GB de roaming"
+      "Pierde 25 GB recompensa",
+      "Pierde: 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 274.5,
     "total_mes_con_plan_familia": 194.5,
@@ -7833,6 +8119,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 50 GB en AV",
+      "Pierde 25 GB recompensa",
       "Pierde 3 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 224.5,
@@ -7850,8 +8137,9 @@ export const lista_opciones = [
       "Roaming: 2.5 GB"
     ],
     "lista_cambios": [
-      "Pierde 20 GB en AV",
-      "Pierde 0.5 GB de roaming"
+      "Pierde 20GB en AV",
+      "Pierde 25 GB recompensa",
+      "Piere 0.5 GB de roaming"
     ],
     "total_mes_sin_plan_familia": 274.5,
     "total_mes_con_plan_familia": 194.5,
@@ -7869,7 +8157,9 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 50 GB en AV",
-      "Pierde 3 GB Roaming"
+      "Pierde 25 GB recompensa",
+      "Pierde spotify, apple music ilimitado",
+      "Pierde Roaming"
     ],
     "total_mes_sin_plan_familia": 224.5,
     "total_mes_con_plan_familia": 184.5,
@@ -7886,8 +8176,9 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 15 GB en AV",
-      "Pierde 0.5 GB de roaming"
+      "Pierde 25 GB en AV",
+      "Pierde 50 GB recompensa",
+      "Pierde: 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 319.5,
     "total_mes_con_plan_familia": 203.5,
@@ -7905,7 +8196,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 35 GB en AV",
-      "Pierde 1 GB de roaming"
+      "Pierde 50 GB recompensa",
+      "Pierde 1 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 274.5,
     "total_mes_con_plan_familia": 194.5,
@@ -7923,7 +8215,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado",
-      "Pierde 20 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 40 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 349.5,
     "total_mes_con_plan_familia": 209.5,
@@ -7940,7 +8233,8 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 35 GB",
+      "Pierde 35 GB en AV",
+      "Pierde 40 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 319.5,
@@ -7959,7 +8253,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado",
-      "Pierde 20 GB en AV"
+      "Pierde 20 GB en AV",
+      "Pierde 40 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 349.5,
     "total_mes_con_plan_familia": 209.5,
@@ -7976,7 +8271,8 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 35 GB",
+      "Pierde 35 GB en AV",
+      "Pierde 40 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 319.5,
@@ -7995,7 +8291,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado",
-      "Pierde 30GB en AV"
+      "Pierde 30GB en AV",
+      "Pierde 50GB recompensa"
     ],
     "total_mes_sin_plan_familia": 349.5,
     "total_mes_con_plan_familia": 209.5,
@@ -8012,7 +8309,8 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 45 GB",
+      "Pierde 45GB en AV",
+      "Pierde 50 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 319.5,
@@ -8031,7 +8329,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 10 GB en AV",
-      "Gana whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
+      "Pierde 70 GB recompensa",
       "Gana 3.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 349.5,
@@ -8049,7 +8347,9 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde Ilimitado y 25 GB en AV",
+      "Pierde Ilimitado",
+      "Pierde 25 GB en AV",
+      "Pierde 70 GB recompensa",
       "Gana whatsapp, waze, spotify, apple music ilimitado, FB e IG FULL",
       "Gana 3 GB Roaming"
     ],
@@ -8069,7 +8369,8 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado",
-      "Pierde 30GB en AV"
+      "Pierde 30GB en AV",
+      "Pierde 50 GB recompensa"
     ],
     "total_mes_sin_plan_familia": 349.5,
     "total_mes_con_plan_familia": 209.5,
@@ -8086,7 +8387,8 @@ export const lista_opciones = [
       "Roaming: 3 GB"
     ],
     "lista_cambios": [
-      "Pierde 46 GB",
+      "Pierde 45GB en AV",
+      "Pierde 50 GB recompensa",
       "Pierde 0.5 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 319.5,
@@ -8673,6 +8975,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Gana ilimitado en AV",
+      "Pierde bono recompensa",
       "Pierde 1 GB de roaming"
     ],
     "total_mes_sin_plan_familia": 649.5,
