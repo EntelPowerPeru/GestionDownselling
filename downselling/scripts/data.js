@@ -2663,8 +2663,7 @@ export const lista_opciones = [
     ],
     "lista_cambios": [
       "Pierde 40 GB en AV",
-      "Pierde spotify, apple music ilimitado",
-      "Pierde Roaming"
+      "Pierde spotify, apple music ilimitado"
     ],
     "total_mes_sin_plan_familia": 89.8,
     "total_mes_con_plan_familia": 79.8,
@@ -2819,7 +2818,7 @@ export const lista_opciones = [
       "Pierde 50 GB en AV",
       "Pierde 25GB recompensa",
       "Pierde spotify, apple music ilimitado",
-      "Pierde Roaming"
+      "Pierde 3 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 89.8,
     "total_mes_con_plan_familia": 79.8,
@@ -2935,7 +2934,7 @@ export const lista_opciones = [
       "Pierde 50 GB en AV",
       "Pierde 25 GB recompensa",
       "Pierde spotify, apple music ilimitado",
-      "Pierde Roaming"
+      "Pierde 3 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 89.8,
     "total_mes_con_plan_familia": 79.8,
@@ -4558,7 +4557,7 @@ export const lista_opciones = [
       "Pierde 50 GB en AV",
       "Pierde 25GB recompensa",
       "Pierde spotify, apple music ilimitado",
-      "Pierde Roaming"
+      "Pierde 3 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 134.7,
     "total_mes_con_plan_familia": 114.7,
@@ -4674,7 +4673,7 @@ export const lista_opciones = [
       "Pierde 50 GB en AV",
       "Pierde 25 GB recompensa",
       "Pierde spotify, apple music ilimitado",
-      "Pierde Roaming"
+      "Pierde 3 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 134.7,
     "total_mes_con_plan_familia": 114.7,
@@ -6299,7 +6298,7 @@ export const lista_opciones = [
       "Pierde 50 GB en AV",
       "Pierde 25GB recompensa",
       "Pierde spotify, apple music ilimitado",
-      "Pierde Roaming"
+      "Pierde 3 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 179.6,
     "total_mes_con_plan_familia": 149.6,
@@ -6415,7 +6414,7 @@ export const lista_opciones = [
       "Pierde 50 GB en AV",
       "Pierde 25 GB recompensa",
       "Pierde spotify, apple music ilimitado",
-      "Pierde Roaming"
+      "Pierde 3 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 179.6,
     "total_mes_con_plan_familia": 149.6,
@@ -8043,7 +8042,7 @@ export const lista_opciones = [
       "Pierde 50 GB en AV",
       "Pierde 25GB recompensa",
       "Pierde spotify, apple music ilimitado",
-      "Pierde Roaming"
+      "Pierde 3 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 224.5,
     "total_mes_con_plan_familia": 184.5,
@@ -8159,7 +8158,7 @@ export const lista_opciones = [
       "Pierde 50 GB en AV",
       "Pierde 25 GB recompensa",
       "Pierde spotify, apple music ilimitado",
-      "Pierde Roaming"
+      "Pierde 3 GB Roaming"
     ],
     "total_mes_sin_plan_familia": 224.5,
     "total_mes_con_plan_familia": 184.5,
