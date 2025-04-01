@@ -22,7 +22,7 @@ export const lista_origen = [
     "origen_id": 3,
     "origen_nombre": "Entel Chip 22.90 REV",
     "lista_beneficios": [
-      "5 GB en AV",
+      "11 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
@@ -58,7 +58,7 @@ export const lista_origen = [
     "origen_id": 7,
     "origen_nombre": "Entel Chip 27.90 REV",
     "lista_beneficios": [
-      "10 GB en AV",
+      "13 GB en AV",
       "Whatsapp y waze ilimitado , FB e IG fotos",
       "Roaming: no tiene"
     ]
